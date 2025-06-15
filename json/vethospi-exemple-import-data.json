@@ -1,0 +1,4908 @@
+{
+    "acts": [
+        {
+            "category": "16",
+            "code": "AAERX1",
+            "id": "1084",
+            "label": "AAE RADIOGRAPHIE CHAT\/PETIT CN"
+        },
+        {
+            "category": "8",
+            "code": "ANLOC",
+            "id": "1085",
+            "label": "ANESTHESIE LOCALE"
+        },
+        {
+            "category": "10",
+            "code": "MET BR1",
+            "id": "1086",
+            "label": "OSTÉOSYNTH. META. PAR PLAQUE CAT.1"
+        },
+        {
+            "category": "11",
+            "code": "HOSPCN2",
+            "id": "1087",
+            "label": "HOSPITALISATION CN PETIT+SOINS"
+        },
+        {
+            "category": "10",
+            "code": "MET BR2",
+            "id": "1088",
+            "label": "OSTÉOSYNTH. META. PAR PLAQUE CAT.2"
+        },
+        {
+            "category": "1",
+            "code": "C",
+            "id": "1089",
+            "label": "CONSULTATION"
+        },
+        {
+            "category": "2",
+            "code": "I1",
+            "id": "1090",
+            "label": "INJECTION IM\/SC"
+        },
+        {
+            "category": "10",
+            "code": "MET BR3",
+            "id": "1091",
+            "label": "OSTÉOSYNTH. META. PAR PLAQUE CAT.3"
+        },
+        {
+            "category": "1",
+            "code": "CUJ",
+            "id": "1092",
+            "label": "CONSULTATION URGENCE JOUR"
+        },
+        {
+            "category": "10",
+            "code": "MET BR4",
+            "id": "1093",
+            "label": "OSTÉOSYNTH. META. PAR PLAQUE CAT.4"
+        },
+        {
+            "category": "1",
+            "code": "CUF",
+            "id": "1094",
+            "label": "CONSULTATION NOEL\/FERIE"
+        },
+        {
+            "category": "1",
+            "code": "CNAC",
+            "id": "1095",
+            "label": "CONSULTATION NAC"
+        },
+        {
+            "category": "1",
+            "code": "CC",
+            "id": "1096",
+            "label": "CONSULTATION COMPORTEMENT"
+        },
+        {
+            "category": "1",
+            "code": "CS",
+            "id": "1097",
+            "label": "CONSULTATION SPÉCIALISEE"
+        },
+        {
+            "category": "4",
+            "code": "LEP",
+            "id": "1098",
+            "label": "VACCINATION LEPTOSPIROSE"
+        },
+        {
+            "category": "2",
+            "code": "I2",
+            "id": "1099",
+            "label": "INJECTION IV"
+        },
+        {
+            "category": "10",
+            "code": "FEM DD1",
+            "id": "1100",
+            "label": "OSTÉOSYNTHÈSE DISJONCTION ÉPIPHYSAIRE DISTALE CAT.1"
+        },
+        {
+            "category": "2",
+            "code": "I3",
+            "id": "1101",
+            "label": "INJECTION MIXTE"
+        },
+        {
+            "category": "2",
+            "code": "I4",
+            "id": "1102",
+            "label": "INJECTION CONVENIA < 10KG"
+        },
+        {
+            "category": "2",
+            "code": "I5",
+            "id": "1103",
+            "label": "INJECTION CONVENIA\/10 KG"
+        },
+        {
+            "category": "2",
+            "code": "I7",
+            "id": "1104",
+            "label": "INJECTION CHRON. CORTICO."
+        },
+        {
+            "category": "4",
+            "code": "CHPL",
+            "id": "1105",
+            "label": "VACCINATION CHPPI-L"
+        },
+        {
+            "category": "4",
+            "code": "TCR",
+            "id": "1106",
+            "label": "VACCINATION TCR"
+        },
+        {
+            "category": "4",
+            "code": "LR",
+            "id": "1107",
+            "label": "VACCINATION LR"
+        },
+        {
+            "category": "16",
+            "code": "SJLTCL",
+            "id": "1108",
+            "label": "APA ST JEAN TCL"
+        },
+        {
+            "category": "5",
+            "code": "SERO",
+            "id": "1109",
+            "label": "TEST SEROLOGIQUE 24 ALLERGENES"
+        },
+        {
+            "category": "4",
+            "code": "CHP",
+            "id": "1110",
+            "label": "VACCINATION CHPPI"
+        },
+        {
+            "category": "4",
+            "code": "CHPLR",
+            "id": "1111",
+            "label": "VACCINATION CHPPI-LR"
+        },
+        {
+            "category": "4",
+            "code": "PIRO",
+            "id": "1112",
+            "label": "VACCINATION PIROPLASMOSE"
+        },
+        {
+            "category": "4",
+            "code": "TC",
+            "id": "1113",
+            "label": "VACCINATION TC"
+        },
+        {
+            "category": "4",
+            "code": "LEUC",
+            "id": "1114",
+            "label": "VACCINATION LEUCOSE"
+        },
+        {
+            "category": "4",
+            "code": "PIROL",
+            "id": "1115",
+            "label": "VACCINATION PIRO.\/LYME"
+        },
+        {
+            "category": "4",
+            "code": "TCL",
+            "id": "1116",
+            "label": "VACCINATION TCL"
+        },
+        {
+            "category": "4",
+            "code": "TCLR",
+            "id": "1117",
+            "label": "VACCINATION TCLR"
+        },
+        {
+            "category": "5",
+            "code": "PS",
+            "id": "1118",
+            "label": "PRISE DE SANG"
+        },
+        {
+            "category": "5",
+            "code": "ACTH",
+            "id": "1119",
+            "label": "PRISES DE SANG STIM ACTH"
+        },
+        {
+            "category": "16",
+            "code": "AAEHOSP",
+            "id": "1120",
+            "label": "AAE HOSPITALISATION"
+        },
+        {
+            "category": "5",
+            "code": "TESTFF",
+            "id": "1121",
+            "label": "TEST FELV+FIV"
+        },
+        {
+            "category": "4",
+            "code": "MYVHD",
+            "id": "1122",
+            "label": "MYXOMATOSE + VHD (LAPIN)"
+        },
+        {
+            "category": "4",
+            "code": "KC",
+            "id": "1123",
+            "label": "NOBIVAC KC INTRANASAL OU PNEUMODOG  EN +"
+        },
+        {
+            "category": "5",
+            "code": "EXPE",
+            "id": "1124",
+            "label": "FRAIS DE PORT\/EXPEDITION"
+        },
+        {
+            "category": "5",
+            "code": "MICRO1",
+            "id": "1125",
+            "label": "FROTTIS SANGUIN"
+        },
+        {
+            "category": "5",
+            "code": "FREINA",
+            "id": "1126",
+            "label": "TEST DE FREINATION"
+        },
+        {
+            "category": "3",
+            "code": "PS1",
+            "id": "1127",
+            "label": "PANSEMENT SIMPLE"
+        },
+        {
+            "category": "3",
+            "code": "RJ1",
+            "id": "1128",
+            "label": "ROBERT JOHNES PETIT"
+        },
+        {
+            "category": "5",
+            "code": "BIOCH6+",
+            "id": "1129",
+            "label": "ANALYSE BIOCHIMIQUE > 6 PARAM"
+        },
+        {
+            "category": "6",
+            "code": "TB2",
+            "id": "1130",
+            "label": "TRANSIT BARYTE MOYEN"
+        },
+        {
+            "category": "6",
+            "code": "ECHO1",
+            "id": "1131",
+            "label": "ECHOGRAPHIE CONTROLE"
+        },
+        {
+            "category": "7",
+            "code": "TATCT",
+            "id": "1132",
+            "label": "TATOUAGE DERMOGRAPHE CT"
+        },
+        {
+            "category": "7",
+            "code": "PUCEL1",
+            "id": "1133",
+            "label": "PUCE ELECTRONIQUE SEULE"
+        },
+        {
+            "category": "8",
+            "code": "AGCT",
+            "id": "1134",
+            "label": "ANESTHESIE CHAT"
+        },
+        {
+            "category": "8",
+            "code": "AGCN1",
+            "id": "1135",
+            "label": "ANESTHESIE CHIEN < 10KG"
+        },
+        {
+            "category": "16",
+            "code": "AAEURG",
+            "id": "1136",
+            "label": "AAE SERVICE GARDE, NUIT, FERIÉS"
+        },
+        {
+            "category": "8",
+            "code": "TRCT",
+            "id": "1137",
+            "label": "TRANQUILISATION CHAT"
+        },
+        {
+            "category": "8",
+            "code": "AGNAC",
+            "id": "1138",
+            "label": "ANESTHESIE NAC"
+        },
+        {
+            "category": "11",
+            "code": "HOSPCT1",
+            "id": "1139",
+            "label": "HOSPITALISATION CT SIMPLE"
+        },
+        {
+            "category": "11",
+            "code": "HOSPCN1",
+            "id": "1140",
+            "label": "HOSPITALISATION CN SIMPLE"
+        },
+        {
+            "category": "9",
+            "code": "CRYPA1",
+            "id": "1141",
+            "label": "CRYPTORCHIDIE ABDO UNILATERALE"
+        },
+        {
+            "category": "2",
+            "code": "I8",
+            "id": "1142",
+            "label": "INJECTION SOUS CONJONCTIVALE"
+        },
+        {
+            "category": "2",
+            "code": "I9",
+            "id": "1143",
+            "label": "INJECTION SPÉCIALE"
+        },
+        {
+            "category": "2",
+            "code": "TARD",
+            "id": "1144",
+            "label": "TARDAK LE ML"
+        },
+        {
+            "category": "5",
+            "code": "MICRO2",
+            "id": "1145",
+            "label": "LAME MICROSCOPE RACLAGE"
+        },
+        {
+            "category": "9",
+            "code": "CRYPA2",
+            "id": "1146",
+            "label": "CRYPTORCHIDIE ABDO BILATERALE"
+        },
+        {
+            "category": "9",
+            "code": "CRYPI1",
+            "id": "1147",
+            "label": "CRYPTORCHIDIE INGUIN. UNILATERALE"
+        },
+        {
+            "category": "9",
+            "code": "CESACT",
+            "id": "1148",
+            "label": "CESARIENNE CT"
+        },
+        {
+            "category": "9",
+            "code": "CESACN1",
+            "id": "1149",
+            "label": "CESARIENNE CN < 20 KG"
+        },
+        {
+            "category": "9",
+            "code": "CESACN2",
+            "id": "1150",
+            "label": "CESARIENNE CN > 20 KG"
+        },
+        {
+            "category": "3",
+            "code": "RJ3",
+            "id": "1151",
+            "label": "ROBERT JOHNES GRAND"
+        },
+        {
+            "category": "2",
+            "code": "DELV",
+            "id": "1152",
+            "label": "DELVOSTERON LE ML"
+        },
+        {
+            "category": "2",
+            "code": "ALIZ",
+            "id": "1153",
+            "label": "ALIZINE LE ML"
+        },
+        {
+            "category": "8",
+            "code": "AGCN4",
+            "id": "1154",
+            "label": "ANESTHESIE CHIEN > 35 KG"
+        },
+        {
+            "category": "8",
+            "code": "AGCN3",
+            "id": "1155",
+            "label": "ANESTHESIE CHIEN 20 À 35 KG"
+        },
+        {
+            "category": "8",
+            "code": "AGCN2",
+            "id": "1156",
+            "label": "ANESTHESIE CHIEN 10 À 20 KG"
+        },
+        {
+            "category": "1",
+            "code": "CUN",
+            "id": "1157",
+            "label": "CONSULTATION URGENCE DIMANCHE\/NUIT"
+        },
+        {
+            "category": "3",
+            "code": "PS2",
+            "id": "1158",
+            "label": "PANSEMENT COMPLEXE"
+        },
+        {
+            "category": "3",
+            "code": "RJ2",
+            "id": "1159",
+            "label": "ROBERT JOHNES MOYEN"
+        },
+        {
+            "category": "1",
+            "code": "CMHOC",
+            "id": "1160",
+            "label": "CONSULTATION OPTHT. MHOC"
+        },
+        {
+            "category": "1",
+            "code": "CCHIR",
+            "id": "1161",
+            "label": "CONSULTATION PRE-CHIRURGIE"
+        },
+        {
+            "category": "1",
+            "code": "CSUIV",
+            "id": "1162",
+            "label": "CONSULTATION SUIVI"
+        },
+        {
+            "category": "9",
+            "code": "CRYPI2",
+            "id": "1163",
+            "label": "CRYPTORCHIDIE INGUIN. BILATERALE"
+        },
+        {
+            "category": "1",
+            "code": "CDOM",
+            "id": "1164",
+            "label": "CONSULTATION A DOMICILE"
+        },
+        {
+            "category": "3",
+            "code": "SLCX",
+            "id": "1165",
+            "label": "SOINS LOCAUX"
+        },
+        {
+            "category": "3",
+            "code": "TONT1",
+            "id": "1166",
+            "label": "TONTE SIMPLE"
+        },
+        {
+            "category": "3",
+            "code": "TONT2",
+            "id": "1167",
+            "label": "TONTE COMPLEXE"
+        },
+        {
+            "category": "2",
+            "code": "MET",
+            "id": "1168",
+            "label": "METACAM LE ML"
+        },
+        {
+            "category": "3",
+            "code": "NETO1",
+            "id": "1169",
+            "label": "NETTOYAGE OREILLES"
+        },
+        {
+            "category": "3",
+            "code": "GRIF",
+            "id": "1170",
+            "label": "COUPE GRIFFES"
+        },
+        {
+            "category": "3",
+            "code": "DENTNC",
+            "id": "1171",
+            "label": "COUPE DENTS NAC"
+        },
+        {
+            "category": "3",
+            "code": "BEC",
+            "id": "1172",
+            "label": "COUPE BEC OISEAU"
+        },
+        {
+            "category": "2",
+            "code": "I10",
+            "id": "1173",
+            "label": "INJECTION DRONCIT"
+        },
+        {
+            "category": "18",
+            "code": "AUT1",
+            "id": "1174",
+            "label": "AUTOPSIE SIMPLE"
+        },
+        {
+            "category": "2",
+            "code": "SUPCT",
+            "id": "1175",
+            "label": "SUPPRESSION CHALEUR CT"
+        },
+        {
+            "category": "2",
+            "code": "SUPCN",
+            "id": "1176",
+            "label": "SUPPRESSION CHALEUR CN"
+        },
+        {
+            "category": "2",
+            "code": "AVO1",
+            "id": "1177",
+            "label": "AVORTEMENT 3 INJ"
+        },
+        {
+            "category": "2",
+            "code": "AVO2",
+            "id": "1178",
+            "label": "AVORTEMENT 2 INJ ALIZINE (HORS PRODUIT)"
+        },
+        {
+            "category": "5",
+            "code": "MICRO3",
+            "id": "1179",
+            "label": "LAME MICROSCOPE ECOUVILLON"
+        },
+        {
+            "category": "17",
+            "code": "LAMB CN",
+            "id": "1180",
+            "label": "LAMBEAU BRACHIAL SUPERFICIEL CHIEN"
+        },
+        {
+            "category": "16",
+            "code": "AAEIE1",
+            "id": "1181",
+            "label": "AAE IE ANIMAL ERRANT"
+        },
+        {
+            "category": "16",
+            "code": "AAEVC2",
+            "id": "1182",
+            "label": "AAE VACCIN CHPL \/ TC"
+        },
+        {
+            "category": "2",
+            "code": "CATH1",
+            "id": "1183",
+            "label": "CATHETÉRISME VEINEUX CT\/PETIT CN"
+        },
+        {
+            "category": "4",
+            "code": "VKC",
+            "id": "1184",
+            "label": "VACCINATION NOBIVAC KC OU PNEUMODOG"
+        },
+        {
+            "category": "4",
+            "code": "R",
+            "id": "1185",
+            "label": "VACCINATION RAGE"
+        },
+        {
+            "category": "17",
+            "code": "LAMB CT",
+            "id": "1186",
+            "label": "LAMBEAU BRACHIAL SUPERFICIEL CHAT"
+        },
+        {
+            "category": "16",
+            "code": "AAEEUT1",
+            "id": "1187",
+            "label": "AAE EUTHANASIE (HORS AG)"
+        },
+        {
+            "category": "4",
+            "code": "CH",
+            "id": "1188",
+            "label": "VACCINATION CH (FURET)"
+        },
+        {
+            "category": "4",
+            "code": "P",
+            "id": "1189",
+            "label": "VACCINATION PARVO PRIMODOG"
+        },
+        {
+            "category": "12",
+            "code": "VITA",
+            "id": "1190",
+            "label": "VITAMINTHE PO 1 GRAD"
+        },
+        {
+            "category": "16",
+            "code": "AAERP",
+            "id": "1191",
+            "label": "AAE RAGE+PASSEPORT"
+        },
+        {
+            "category": "5",
+            "code": "NFS1",
+            "id": "1192",
+            "label": "NUMERATION FORMULE SANGUINE"
+        },
+        {
+            "category": "16",
+            "code": "AAE",
+            "id": "1193",
+            "label": "AAE SERVICE JOUR (CONSULTATION)"
+        },
+        {
+            "category": "18",
+            "code": "AUT2",
+            "id": "1194",
+            "label": "AUTOPSIE + RAPPORT"
+        },
+        {
+            "category": "18",
+            "code": "EUTCT",
+            "id": "1195",
+            "label": "EUTHANASIE CT"
+        },
+        {
+            "category": "5",
+            "code": "BIOCH1",
+            "id": "1196",
+            "label": "ANALYSE BIOCHIMIQUE 1 PARAM"
+        },
+        {
+            "category": "18",
+            "code": "EUTCN1",
+            "id": "1197",
+            "label": "EUTHANASIE CN PETIT"
+        },
+        {
+            "category": "18",
+            "code": "EUTCN2",
+            "id": "1198",
+            "label": "EUTHANASIE CN MOYEN"
+        },
+        {
+            "category": "5",
+            "code": "BIOCH2",
+            "id": "1199",
+            "label": "ANALYSE BIOCHIMIQUE 2 PARAM"
+        },
+        {
+            "category": "18",
+            "code": "EUTCN3",
+            "id": "1200",
+            "label": "EUTHANASIE CN GRAND"
+        },
+        {
+            "category": "5",
+            "code": "BIOCH3",
+            "id": "1201",
+            "label": "ANALYSE BIOCHIMIQUE 3 PARAM"
+        },
+        {
+            "category": "5",
+            "code": "BIOCH4",
+            "id": "1202",
+            "label": "ANALYSE BIOCHIMIQUE 4 PARAM"
+        },
+        {
+            "category": "18",
+            "code": "EUTNAC",
+            "id": "1203",
+            "label": "EUTHANASIE NAC"
+        },
+        {
+            "category": "18",
+            "code": "INCCT",
+            "id": "1204",
+            "label": "INCINERATION COLLECTIVE CT"
+        },
+        {
+            "category": "10",
+            "code": "RAD\/UL4",
+            "id": "1205",
+            "label": "OSTÉOSYNTHÈSE DU RADIUS ET DE ULNA CAT.4"
+        },
+        {
+            "category": "18",
+            "code": "INCCN",
+            "id": "1206",
+            "label": "INCINERATION COLLECTIVE CN"
+        },
+        {
+            "category": "18",
+            "code": "INCNAC",
+            "id": "1207",
+            "label": "INCINERATION NAC"
+        },
+        {
+            "category": "17",
+            "code": "ABAI",
+            "id": "1208",
+            "label": "ABAISSEMENT CONDUIT AUDITIF"
+        },
+        {
+            "category": "18",
+            "code": "INCIND",
+            "id": "1209",
+            "label": "INCINERATION INDIVIDUELLE"
+        },
+        {
+            "category": "18",
+            "code": "URN1",
+            "id": "1210",
+            "label": "URNE DECORATIVE"
+        },
+        {
+            "category": "14",
+            "code": "CASCT",
+            "id": "1211",
+            "label": "CASTRATION CHAT"
+        },
+        {
+            "category": "14",
+            "code": "CASFU",
+            "id": "1212",
+            "label": "CASTRATION FURET"
+        },
+        {
+            "category": "14",
+            "code": "CASLAP",
+            "id": "1213",
+            "label": "CASTRATION LAPIN"
+        },
+        {
+            "category": "5",
+            "code": "BIOCH5",
+            "id": "1214",
+            "label": "ANALYSE BIOCHIMIQUE 5 PARAM"
+        },
+        {
+            "category": "14",
+            "code": "CASNAC",
+            "id": "1215",
+            "label": "CASTRATION NAC"
+        },
+        {
+            "category": "14",
+            "code": "CASCN1",
+            "id": "1216",
+            "label": "CASTRATION CN PETIT"
+        },
+        {
+            "category": "14",
+            "code": "CASCN2",
+            "id": "1217",
+            "label": "CASTRATION CN MOYEN"
+        },
+        {
+            "category": "5",
+            "code": "B6",
+            "id": "1218",
+            "label": "BILAN BIOCHIMIQUE 6 PARAM"
+        },
+        {
+            "category": "14",
+            "code": "CASCN3",
+            "id": "1219",
+            "label": "CASTRATION CN GRAND"
+        },
+        {
+            "category": "5",
+            "code": "B14",
+            "id": "1220",
+            "label": "BILAN BIOCHIMIQUE 14 PARAM"
+        },
+        {
+            "category": "5",
+            "code": "BT4CHO",
+            "id": "1221",
+            "label": "BILAN BIOCHIMIQUE T4\/CHOL"
+        },
+        {
+            "category": "14",
+            "code": "OVCT1",
+            "id": "1222",
+            "label": "OVARIECTOMIE CHAT"
+        },
+        {
+            "category": "5",
+            "code": "BCRIT",
+            "id": "1223",
+            "label": "BILAN BIOCHIMIQUE CRITICAL"
+        },
+        {
+            "category": "14",
+            "code": "OVCT2",
+            "id": "1224",
+            "label": "OVARIECTOMIE 2 CHATTES"
+        },
+        {
+            "category": "14",
+            "code": "OVCT3",
+            "id": "1225",
+            "label": "OVARIECTOMIE 3 CHATTES"
+        },
+        {
+            "category": "16",
+            "code": "AAEVAC",
+            "id": "1226",
+            "label": "AAE VACATION AU REFUGE"
+        },
+        {
+            "category": "14",
+            "code": "OVCN1",
+            "id": "1227",
+            "label": "OVARIECTOMIE CN PETIT"
+        },
+        {
+            "category": "14",
+            "code": "OVCN2",
+            "id": "1228",
+            "label": "OVARIECTOMIE CN MOYEN"
+        },
+        {
+            "category": "14",
+            "code": "OVCN3",
+            "id": "1229",
+            "label": "OVARIECTOMIE CN GRAND"
+        },
+        {
+            "category": "5",
+            "code": "BFOIE",
+            "id": "1230",
+            "label": "BILAN BIOCHIMIQUE FOIE"
+        },
+        {
+            "category": "14",
+            "code": "OVFULP",
+            "id": "1231",
+            "label": "OVARIECTOMIE FURET\/LAPIN"
+        },
+        {
+            "category": "14",
+            "code": "OVNAC",
+            "id": "1232",
+            "label": "OVARIECTOMIE NAC"
+        },
+        {
+            "category": "7",
+            "code": "PASS",
+            "id": "1233",
+            "label": "PASSEPORT EUROPEEN"
+        },
+        {
+            "category": "8",
+            "code": "TRCN1",
+            "id": "1234",
+            "label": "TRANQUILISATION CN < 10 KG"
+        },
+        {
+            "category": "7",
+            "code": "PUCEL2",
+            "id": "1235",
+            "label": "PUCE ELECTRONIQUE + AUTRE"
+        },
+        {
+            "category": "7",
+            "code": "TATCN1",
+            "id": "1236",
+            "label": "TATOUAGE DERMOGRAPHE CN"
+        },
+        {
+            "category": "5",
+            "code": "URIN",
+            "id": "1237",
+            "label": "ANALYSE URINAIRE COMPLÈTE"
+        },
+        {
+            "category": "7",
+            "code": "TATCN2",
+            "id": "1238",
+            "label": "TATOUAGE DERMOGRAPHE CHIOT"
+        },
+        {
+            "category": "5",
+            "code": "BU",
+            "id": "1239",
+            "label": "BANDELETTE URINAIRE"
+        },
+        {
+            "category": "7",
+            "code": "TATCHIR",
+            "id": "1240",
+            "label": "TATOUAGE DERMOG. + AUTRE"
+        },
+        {
+            "category": "6",
+            "code": "ECHO2",
+            "id": "1241",
+            "label": "ECHOGRAPHIE GENITO-URINAIRE"
+        },
+        {
+            "category": "6",
+            "code": "ECHO3",
+            "id": "1242",
+            "label": "ECHOGRAPHIE ABDO. SIMPLE"
+        },
+        {
+            "category": "6",
+            "code": "ECHO4",
+            "id": "1243",
+            "label": "ECHOGRAPHIE ABDO. COMPLEXE"
+        },
+        {
+            "category": "6",
+            "code": "ECHO5",
+            "id": "1244",
+            "label": "ECHOGRAPHIE CARDIAQUE"
+        },
+        {
+            "category": "6",
+            "code": "RX1",
+            "id": "1245",
+            "label": "RADIO NUMÉRIQUE 1 CLICHÉ"
+        },
+        {
+            "category": "6",
+            "code": "RX2",
+            "id": "1246",
+            "label": "RADIO NUMÉRIQUE 2 CLICHÉS"
+        },
+        {
+            "category": "6",
+            "code": "RX3",
+            "id": "1247",
+            "label": "RADIO NUMÉRIQUE 3 CLICHÉS"
+        },
+        {
+            "category": "6",
+            "code": "RXDY H",
+            "id": "1248",
+            "label": "RADIO NUMÉRIQUE OFFICIELLE DYSPLASIE HANCHE"
+        },
+        {
+            "category": "6",
+            "code": "TB1",
+            "id": "1249",
+            "label": "TRANSIT BARYTÉ PETIT"
+        },
+        {
+            "category": "6",
+            "code": "TB3",
+            "id": "1250",
+            "label": "TRANSIT BARYTÉ GRAND"
+        },
+        {
+            "category": "6",
+            "code": "CYSGR",
+            "id": "1251",
+            "label": "CYSTOGRAPHIE"
+        },
+        {
+            "category": "5",
+            "code": "DU",
+            "id": "1252",
+            "label": "DENSITÉ URINAIRE"
+        },
+        {
+            "category": "5",
+            "code": "CU",
+            "id": "1253",
+            "label": "CULOT URINAIRE"
+        },
+        {
+            "category": "5",
+            "code": "PU\/CU",
+            "id": "1254",
+            "label": "ANALYSE RAPPORT PU\/CU"
+        },
+        {
+            "category": "5",
+            "code": "ABGR",
+            "id": "1255",
+            "label": "ANTIBIOGRAMME"
+        },
+        {
+            "category": "5",
+            "code": "MYGR",
+            "id": "1256",
+            "label": "MYELOGRAMME"
+        },
+        {
+            "category": "8",
+            "code": "TRCN2",
+            "id": "1257",
+            "label": "TRANQUILISATION CN 10 À 20 KG"
+        },
+        {
+            "category": "5",
+            "code": "MICRO4",
+            "id": "1258",
+            "label": "LAME MICROSCOPE CYTOPONCTION"
+        },
+        {
+            "category": "2",
+            "code": "PONCT1",
+            "id": "1259",
+            "label": "PONCTION EPANCHEMENT SIMPLE"
+        },
+        {
+            "category": "2",
+            "code": "PONCT2",
+            "id": "1260",
+            "label": "PONCTION EPANCHEMENT COMPLEXE"
+        },
+        {
+            "category": "8",
+            "code": "TRCN3",
+            "id": "1261",
+            "label": "TRANQUILISATION CN 20 À 35 KG"
+        },
+        {
+            "category": "8",
+            "code": "TRCN4",
+            "id": "1262",
+            "label": "TRANQUILISATION CN > 35 KG"
+        },
+        {
+            "category": "16",
+            "code": "BBOV",
+            "id": "1263",
+            "label": "FONDATION B. BARDOT OVARIO"
+        },
+        {
+            "category": "16",
+            "code": "AAESOI1",
+            "id": "1264",
+            "label": "AAE SOINS CONSERVATOIRES CT\/PT CN"
+        },
+        {
+            "category": "9",
+            "code": "CYSTOCN",
+            "id": "1265",
+            "label": "CYSTOTOMIE CHIEN"
+        },
+        {
+            "category": "16",
+            "code": "BBCAST",
+            "id": "1266",
+            "label": "FONDATION B. BARDOT CASTRATION"
+        },
+        {
+            "category": "5",
+            "code": "OCR1",
+            "id": "1267",
+            "label": "ANALYSE HISTOLOGIQUE LABO OCR"
+        },
+        {
+            "category": "9",
+            "code": "CYSTOCT",
+            "id": "1268",
+            "label": "CYSTOTOMIE CHAT"
+        },
+        {
+            "category": "16",
+            "code": "SPAOV1",
+            "id": "1269",
+            "label": "CHAT DES RUES OVARIO CT"
+        },
+        {
+            "category": "10",
+            "code": "HER DIS",
+            "id": "1270",
+            "label": "HÉMILAMINECTOMIE HERNIE DISCALE"
+        },
+        {
+            "category": "16",
+            "code": "AAECHPL",
+            "id": "1271",
+            "label": "AAE CHPL VACATION"
+        },
+        {
+            "category": "16",
+            "code": "SPACAS",
+            "id": "1272",
+            "label": "CHAT DES RUES CASTRATION CT"
+        },
+        {
+            "category": "3",
+            "code": "GAVID",
+            "id": "1273",
+            "label": "GLANDES ANALES VIDANGE"
+        },
+        {
+            "category": "2",
+            "code": "VETMED",
+            "id": "1274",
+            "label": "VETMEDIN LE ML"
+        },
+        {
+            "category": "16",
+            "code": "SPATEST",
+            "id": "1275",
+            "label": "CHAT DES RUES TEST FELV\/FIV"
+        },
+        {
+            "category": "11",
+            "code": "HOSPCT2",
+            "id": "1276",
+            "label": "HOSPITALISATION CT+SOINS"
+        },
+        {
+            "category": "18",
+            "code": "INCCT2",
+            "id": "1277",
+            "label": "INCINERATION CHAT ERRANT"
+        },
+        {
+            "category": "16",
+            "code": "SPAEUCT",
+            "id": "1278",
+            "label": "CHAT DES RUES EUTHANASIE CT"
+        },
+        {
+            "category": "9",
+            "code": "MACNG1",
+            "id": "1279",
+            "label": "MAMMECTOMIE CN G NODULE"
+        },
+        {
+            "category": "16",
+            "code": "SPAINCT",
+            "id": "1280",
+            "label": "CHAT DES RUES INCINÉRATION CT"
+        },
+        {
+            "category": "9",
+            "code": "MACNG2",
+            "id": "1281",
+            "label": "MAMMECTOMIE CN G 1 MAMELLE"
+        },
+        {
+            "category": "16",
+            "code": "SPATAT2",
+            "id": "1282",
+            "label": "CHAT DES RUES TATOUAGE CT"
+        },
+        {
+            "category": "9",
+            "code": "MACNG3",
+            "id": "1283",
+            "label": "MAMMECTOMIE CN G 1\/2 CHAINE"
+        },
+        {
+            "category": "13",
+            "code": "FLO",
+            "id": "1284",
+            "label": "FLORINEF 0.1MG 100CP"
+        },
+        {
+            "category": "16",
+            "code": "SPAPUC",
+            "id": "1285",
+            "label": "CHAT DES RUES PUCE ELECTRONIQUE"
+        },
+        {
+            "category": "9",
+            "code": "MACNG4",
+            "id": "1286",
+            "label": "MAMMECTOMIE CN G CHAINE COMPLÈTE"
+        },
+        {
+            "category": "9",
+            "code": "MACNM1",
+            "id": "1287",
+            "label": "MAMMECTOMIE CN M NODULE"
+        },
+        {
+            "category": "11",
+            "code": "HOSPCN3",
+            "id": "1288",
+            "label": "HOSPITALISATION CN MOYEN+SOINS"
+        },
+        {
+            "category": "11",
+            "code": "HOSPCN4",
+            "id": "1289",
+            "label": "HOSPITALISATION CHIEN GRAND+SOINS"
+        },
+        {
+            "category": "11",
+            "code": "PERFCT",
+            "id": "1290",
+            "label": "PERFUSION CHAT"
+        },
+        {
+            "category": "11",
+            "code": "PERFCN",
+            "id": "1291",
+            "label": "PERFUSION CHIEN"
+        },
+        {
+            "category": "16",
+            "code": "SPAVC3",
+            "id": "1292",
+            "label": "CHAT DES RUES VACCIN CT TC"
+        },
+        {
+            "category": "16",
+            "code": "SPAVC4",
+            "id": "1293",
+            "label": "CHAT DES RUES VACCIN CT TCL"
+        },
+        {
+            "category": "9",
+            "code": "MACNM2",
+            "id": "1294",
+            "label": "MAMMECTOMIE CN M 1 MAMELLE"
+        },
+        {
+            "category": "11",
+            "code": "PERFS1",
+            "id": "1295",
+            "label": "PERFUSION SUIVANTE STANDARD"
+        },
+        {
+            "category": "16",
+            "code": "SJLCCT",
+            "id": "1296",
+            "label": "APA ST JEAN CASTRATION CT"
+        },
+        {
+            "category": "16",
+            "code": "SJLOVCT",
+            "id": "1297",
+            "label": "APA ST JEAN OVARIO CT"
+        },
+        {
+            "category": "16",
+            "code": "SJLCCN1",
+            "id": "1298",
+            "label": "APA ST JEAN CASTRATION CN PETIT"
+        },
+        {
+            "category": "16",
+            "code": "SJLOV1",
+            "id": "1299",
+            "label": "APA ST JEAN OVARIO CN<10KG"
+        },
+        {
+            "category": "16",
+            "code": "SJLOV2",
+            "id": "1300",
+            "label": "APA ST JEAN OVARIO CN 10\/20KG"
+        },
+        {
+            "category": "16",
+            "code": "SJLOV3",
+            "id": "1301",
+            "label": "APA ST JEAN OVARIO CN 20\/35 KG"
+        },
+        {
+            "category": "16",
+            "code": "SJLOV4",
+            "id": "1302",
+            "label": "APA ST JEAN OVARIO CN >40KG"
+        },
+        {
+            "category": "11",
+            "code": "PERFSC",
+            "id": "1303",
+            "label": "PERFUSION SOUS CUTANÉE"
+        },
+        {
+            "category": "17",
+            "code": "CLACRY",
+            "id": "1304",
+            "label": "CANAUX LACRYMAUX"
+        },
+        {
+            "category": "11",
+            "code": "PERFS2",
+            "id": "1305",
+            "label": "PERFUSION SUIVANTE INTENSIVE"
+        },
+        {
+            "category": "11",
+            "code": "PENSCT1",
+            "id": "1306",
+            "label": "PENSION CHAT TOUT COMPRIS"
+        },
+        {
+            "category": "11",
+            "code": "PENSCT2",
+            "id": "1307",
+            "label": "PENSION CHAT SIMPLE"
+        },
+        {
+            "category": "11",
+            "code": "PENSCN1",
+            "id": "1308",
+            "label": "PENSION CHIEN TOUT COMPRIS"
+        },
+        {
+            "category": "11",
+            "code": "PENSCN2",
+            "id": "1309",
+            "label": "PENSION CHIEN SIMPLE"
+        },
+        {
+            "category": "11",
+            "code": "OXY1",
+            "id": "1310",
+            "label": "OXYGENOTHERAPIE 1 H"
+        },
+        {
+            "category": "11",
+            "code": "OXY2",
+            "id": "1311",
+            "label": "OXYGENOTHERAPIE 6 H"
+        },
+        {
+            "category": "11",
+            "code": "OXY3",
+            "id": "1312",
+            "label": "OXYGENOTHERAPIE 12 H"
+        },
+        {
+            "category": "11",
+            "code": "OXY4",
+            "id": "1313",
+            "label": "OXYGENOTHERAPIE 24 H"
+        },
+        {
+            "category": "11",
+            "code": "TRANS1",
+            "id": "1314",
+            "label": "TRANSFUSION"
+        },
+        {
+            "category": "11",
+            "code": "REAN",
+            "id": "1315",
+            "label": "REANIMATION\/NURSING"
+        },
+        {
+            "category": "5",
+            "code": "COAG",
+            "id": "1316",
+            "label": "TEST COAGULATION MANUEL"
+        },
+        {
+            "category": "3",
+            "code": "AERO1",
+            "id": "1317",
+            "label": "AEROSOLTHERAPIE 1 SEANCE"
+        },
+        {
+            "category": "3",
+            "code": "AERO2",
+            "id": "1318",
+            "label": "AEROSOLTHERAPIE 5 SEANCES"
+        },
+        {
+            "category": "3",
+            "code": "CYSTO1",
+            "id": "1319",
+            "label": "CYSTOCENTESE SIMPLE"
+        },
+        {
+            "category": "3",
+            "code": "CYSTO2",
+            "id": "1320",
+            "label": "CYSTOCENTESE SOUS ECHOGRAPHIE"
+        },
+        {
+            "category": "3",
+            "code": "ECG1",
+            "id": "1321",
+            "label": "ELECTROCARDIOGRAMME"
+        },
+        {
+            "category": "3",
+            "code": "ECG2",
+            "id": "1322",
+            "label": "ELECTROCARDIOGRAMME CONTROLE"
+        },
+        {
+            "category": "3",
+            "code": "LBA",
+            "id": "1323",
+            "label": "LAVAGE BRONCHO-ALVEOLAIRE"
+        },
+        {
+            "category": "3",
+            "code": "LAVR1",
+            "id": "1324",
+            "label": "LAVEMENT RECTAL PETIT"
+        },
+        {
+            "category": "3",
+            "code": "TA1",
+            "id": "1325",
+            "label": "TENSION ARTERIELLE MESURE"
+        },
+        {
+            "category": "3",
+            "code": "TA2",
+            "id": "1326",
+            "label": "TENSION ARTERIELLE CONTROLE"
+        },
+        {
+            "category": "3",
+            "code": "SONDNO",
+            "id": "1327",
+            "label": "SONDAGE NASO-OESOPHAGIEN"
+        },
+        {
+            "category": "3",
+            "code": "SONUR1",
+            "id": "1328",
+            "label": "SONDAGE URINAIRE CHIEN"
+        },
+        {
+            "category": "3",
+            "code": "SONUR2",
+            "id": "1329",
+            "label": "SONDAGE URINAIRE CHIENNE"
+        },
+        {
+            "category": "3",
+            "code": "SUF",
+            "id": "1330",
+            "label": "SUF-SONDAGE CHAT"
+        },
+        {
+            "category": "3",
+            "code": "SONDG",
+            "id": "1331",
+            "label": "SONDE OESOPHAGOSTOMIE"
+        },
+        {
+            "category": "3",
+            "code": "LAVG",
+            "id": "1332",
+            "label": "LAVAGE GASTRIQUE"
+        },
+        {
+            "category": "2",
+            "code": "MESO",
+            "id": "1333",
+            "label": "MESOTHERAPIE"
+        },
+        {
+            "category": "12",
+            "code": "DIV",
+            "id": "1334",
+            "label": "DIVERS"
+        },
+        {
+            "category": "12",
+            "code": "ERR",
+            "id": "1335",
+            "label": "ERREUR"
+        },
+        {
+            "category": "12",
+            "code": "REM",
+            "id": "1336",
+            "label": "REMISE"
+        },
+        {
+            "category": "12",
+            "code": "CERTIF3",
+            "id": "1337",
+            "label": "CERTIFICATS MORDEUR"
+        },
+        {
+            "category": "12",
+            "code": "DEP1",
+            "id": "1338",
+            "label": "DEPLACEMENT < 5 KM"
+        },
+        {
+            "category": "12",
+            "code": "DEP2",
+            "id": "1339",
+            "label": "DEPLACEMENT 5 À 10 KM"
+        },
+        {
+            "category": "9",
+            "code": "MACNM3",
+            "id": "1340",
+            "label": "MAMMECTOMIE CN M 1\/2 CHAINE"
+        },
+        {
+            "category": "12",
+            "code": "DEP3",
+            "id": "1341",
+            "label": "DEPLACEMENT > 10 KM"
+        },
+        {
+            "category": "5",
+            "code": "COPROS",
+            "id": "1342",
+            "label": "COPROSCOPIE"
+        },
+        {
+            "category": "6",
+            "code": "FIBRO2",
+            "id": "1343",
+            "label": "FIBROSCOPIE EXPLORATRICE COMPLEXE"
+        },
+        {
+            "category": "6",
+            "code": "FIBRO3",
+            "id": "1344",
+            "label": "FIBROSCOPIE OPERATIONNELLE"
+        },
+        {
+            "category": "9",
+            "code": "ABCCT1",
+            "id": "1345",
+            "label": "ABCES CT DEBRIDAGE"
+        },
+        {
+            "category": "9",
+            "code": "ABCCT2",
+            "id": "1346",
+            "label": "ABCES CT DEBRIDAGE + DRAIN"
+        },
+        {
+            "category": "9",
+            "code": "ABCCN1",
+            "id": "1347",
+            "label": "ABCES CN DEBRIDAGE"
+        },
+        {
+            "category": "9",
+            "code": "ABCCN2",
+            "id": "1348",
+            "label": "ABCES CN DEBRIDAGE + DRAIN"
+        },
+        {
+            "category": "9",
+            "code": "AGRAF",
+            "id": "1349",
+            "label": "AGRAFES\/UNITE"
+        },
+        {
+            "category": "9",
+            "code": "ERGOT1",
+            "id": "1350",
+            "label": "AMPUTATION ERGOT CHIOT"
+        },
+        {
+            "category": "9",
+            "code": "ERGOT2",
+            "id": "1351",
+            "label": "AMPUTATION ERGOT ADULTE"
+        },
+        {
+            "category": "9",
+            "code": "MACNM4",
+            "id": "1352",
+            "label": "MAMMECTOMIE CN M CHAINE COMPLETE"
+        },
+        {
+            "category": "9",
+            "code": "AMPACT",
+            "id": "1353",
+            "label": "AMPUTATION MEMB. ANTR CT"
+        },
+        {
+            "category": "9",
+            "code": "AMPACN",
+            "id": "1354",
+            "label": "AMPUTATION MEMB.ANTR CN"
+        },
+        {
+            "category": "9",
+            "code": "AMPPCT",
+            "id": "1355",
+            "label": "AMPUTATION MEMB. POSTR CT"
+        },
+        {
+            "category": "9",
+            "code": "AMPPCN",
+            "id": "1356",
+            "label": "AMPUTATION MEMB. POSTR CN"
+        },
+        {
+            "category": "9",
+            "code": "AMPDCT",
+            "id": "1357",
+            "label": "AMPUTATION DOIGT CT"
+        },
+        {
+            "category": "9",
+            "code": "AMPDCN",
+            "id": "1358",
+            "label": "AMPUTATION DOIGT CN"
+        },
+        {
+            "category": "17",
+            "code": "ENTROP1",
+            "id": "1359",
+            "label": "ENTROPION 1 PAUPIERE"
+        },
+        {
+            "category": "9",
+            "code": "AMPGCT",
+            "id": "1360",
+            "label": "AMPUTATION PHALANGE CT"
+        },
+        {
+            "category": "9",
+            "code": "AMPGCN",
+            "id": "1361",
+            "label": "AMPUTATION PHALANGE CN"
+        },
+        {
+            "category": "9",
+            "code": "CHICUT1",
+            "id": "1362",
+            "label": "CHIRURGIE CUTANÉE PETITE"
+        },
+        {
+            "category": "9",
+            "code": "CHICUT2",
+            "id": "1363",
+            "label": "CHIRURGIE CUTANÉE MOYENNE"
+        },
+        {
+            "category": "9",
+            "code": "CHICUT3",
+            "id": "1364",
+            "label": "CHIRURGIE CUTANEE GRANDE"
+        },
+        {
+            "category": "5",
+            "code": "TEST DU",
+            "id": "1365",
+            "label": "TEST RESTRICTION HYDRIQUE"
+        },
+        {
+            "category": "9",
+            "code": "BIOCUTS",
+            "id": "1366",
+            "label": "BIOPSIE CUTANÉE SIMPLE"
+        },
+        {
+            "category": "9",
+            "code": "BIOCUTC",
+            "id": "1367",
+            "label": "BIOPSIE CUTANEE COMPLEXE"
+        },
+        {
+            "category": "9",
+            "code": "BIOPABD",
+            "id": "1368",
+            "label": "BIOPSIE ABDOMINALE"
+        },
+        {
+            "category": "9",
+            "code": "CAUDCT",
+            "id": "1369",
+            "label": "CAUDECTOMIE CHAT"
+        },
+        {
+            "category": "9",
+            "code": "CAUDCN1",
+            "id": "1370",
+            "label": "CAUDECTOMIE CHIEN ADULTE"
+        },
+        {
+            "category": "9",
+            "code": "CAUDCN2",
+            "id": "1371",
+            "label": "CAUDECTOMIE CHIOT 1ER"
+        },
+        {
+            "category": "9",
+            "code": "AUDCN3",
+            "id": "1372",
+            "label": "CAUDECTOMIE CHIOT SUIVANTS"
+        },
+        {
+            "category": "9",
+            "code": "CHIR",
+            "id": "1373",
+            "label": "CHIRURGIE"
+        },
+        {
+            "category": "9",
+            "code": "DETCT1",
+            "id": "1374",
+            "label": "DETARTRAGE\/POLISSAGE CT"
+        },
+        {
+            "category": "9",
+            "code": "DETCN1",
+            "id": "1375",
+            "label": "DETARTRAGE\/POLISSAGE CN"
+        },
+        {
+            "category": "9",
+            "code": "DETCOM",
+            "id": "1376",
+            "label": "DETARTRAGE\/POLISSAGE COMPLEXE"
+        },
+        {
+            "category": "9",
+            "code": "ENTECCT",
+            "id": "1377",
+            "label": "ENTERECTOMIE CT"
+        },
+        {
+            "category": "9",
+            "code": "ENTECCN",
+            "id": "1378",
+            "label": "ENTERECTOMIE CN"
+        },
+        {
+            "category": "9",
+            "code": "ENTROCT",
+            "id": "1379",
+            "label": "ENTEROTOMIE CT"
+        },
+        {
+            "category": "17",
+            "code": "ENTROP2",
+            "id": "1380",
+            "label": "ENTROPION 2 PAUPIERES"
+        },
+        {
+            "category": "9",
+            "code": "ENTROCN",
+            "id": "1381",
+            "label": "ENTEROTOMIE CN"
+        },
+        {
+            "category": "9",
+            "code": "DENTA1",
+            "id": "1382",
+            "label": "EXTRACTION DENTS ADULTES SIMPLE"
+        },
+        {
+            "category": "9",
+            "code": "DENTA2",
+            "id": "1383",
+            "label": "EXTRACTION DENTS ADULTES COMPLEXE"
+        },
+        {
+            "category": "9",
+            "code": "MACNP1",
+            "id": "1384",
+            "label": "MAMMECTOMIE CN P NODULE"
+        },
+        {
+            "category": "17",
+            "code": "ENTROP3",
+            "id": "1385",
+            "label": "ENTROPION 3 PAUPIERES"
+        },
+        {
+            "category": "9",
+            "code": "DENTL1",
+            "id": "1386",
+            "label": "EXTRACTION DENT LAIT<3"
+        },
+        {
+            "category": "9",
+            "code": "DENTL2",
+            "id": "1387",
+            "label": "EXTRACTION DENT LAIT>3"
+        },
+        {
+            "category": "9",
+            "code": "LAMBG1",
+            "id": "1388",
+            "label": "LAMBEAU GINGIVAL SIMPLE"
+        },
+        {
+            "category": "9",
+            "code": "LAMBG2",
+            "id": "1389",
+            "label": "LAMBEAU GINGIVAL COMPLEXE"
+        },
+        {
+            "category": "9",
+            "code": "GASTCT",
+            "id": "1390",
+            "label": "GASTROTOMIE CT"
+        },
+        {
+            "category": "9",
+            "code": "GASTCN",
+            "id": "1391",
+            "label": "GASTROTOMIE CN"
+        },
+        {
+            "category": "9",
+            "code": "GLANAL",
+            "id": "1392",
+            "label": "ABALATION DES GL. ANALES"
+        },
+        {
+            "category": "9",
+            "code": "HERNIO",
+            "id": "1393",
+            "label": "HERNIE OMBILICALE"
+        },
+        {
+            "category": "9",
+            "code": "HERNII1",
+            "id": "1394",
+            "label": "HERNIE INGUINALE SIMPLE"
+        },
+        {
+            "category": "9",
+            "code": "HERNIP1",
+            "id": "1395",
+            "label": "HERNIE PERINEALE UNILATÉRALE 3 TEMPS OPÉRATOIRES"
+        },
+        {
+            "category": "9",
+            "code": "LAPACT",
+            "id": "1396",
+            "label": "LAPAROTOMIE EXPLO. CT"
+        },
+        {
+            "category": "9",
+            "code": "LAPACN",
+            "id": "1397",
+            "label": "LAPAROTOMIE EXPLO. CN"
+        },
+        {
+            "category": "12",
+            "code": "LIVRBS",
+            "id": "1398",
+            "label": "LIVRE ABC HOMEOPATHIE"
+        },
+        {
+            "category": "12",
+            "code": "DEP4",
+            "id": "1399",
+            "label": "DEPLACEMENT SUR REQUISITION"
+        },
+        {
+            "category": "12",
+            "code": "EXPERT1",
+            "id": "1400",
+            "label": "EXPERTISE CONSTAT FAIT"
+        },
+        {
+            "category": "12",
+            "code": "EXPERT2",
+            "id": "1401",
+            "label": "EXPERTISE RAPPORT"
+        },
+        {
+            "category": "12",
+            "code": "MEDIC",
+            "id": "1402",
+            "label": "MEDICAMENT"
+        },
+        {
+            "category": "9",
+            "code": "MACNP2",
+            "id": "1403",
+            "label": "MAMMECTOMIE CN P 1 MAMELLE"
+        },
+        {
+            "category": "17",
+            "code": "ENTROP4",
+            "id": "1404",
+            "label": "ENTROPION 4 PAUPIERES"
+        },
+        {
+            "category": "9",
+            "code": "MACNP3",
+            "id": "1405",
+            "label": "MAMMECTOMIE CN P 1\/2 CHAINE"
+        },
+        {
+            "category": "17",
+            "code": "ENUCCN",
+            "id": "1406",
+            "label": "ENUCLEATION CHIEN"
+        },
+        {
+            "category": "9",
+            "code": "MACP4",
+            "id": "1407",
+            "label": "MAMMECTOMIE CN P CHAINE COMPLETE"
+        },
+        {
+            "category": "9",
+            "code": "MACT1",
+            "id": "1408",
+            "label": "MAMMECTOMIE CT NODULE"
+        },
+        {
+            "category": "9",
+            "code": "MACT2",
+            "id": "1409",
+            "label": "MAMMECTOMIE CT 1 MAMELLE"
+        },
+        {
+            "category": "9",
+            "code": "MACT3",
+            "id": "1410",
+            "label": "MAMMECTOMIE CT 1\/2 CHAINE"
+        },
+        {
+            "category": "9",
+            "code": "MACT4",
+            "id": "1411",
+            "label": "MAMMECTOMIE CT CHAINE COMPLÈTE"
+        },
+        {
+            "category": "17",
+            "code": "ENUCCT",
+            "id": "1412",
+            "label": "ENUCLEATION CHAT"
+        },
+        {
+            "category": "9",
+            "code": "OTHECN1",
+            "id": "1413",
+            "label": "OTHEMATOME CN SIMPLE"
+        },
+        {
+            "category": "9",
+            "code": "OTHECN2",
+            "id": "1414",
+            "label": "OTHEMATOME CN COMPLEXE"
+        },
+        {
+            "category": "9",
+            "code": "OTHECT",
+            "id": "1415",
+            "label": "OTHEMATOME CT"
+        },
+        {
+            "category": "9",
+            "code": "OTECCN1",
+            "id": "1416",
+            "label": "OTECTOMIE CN 1 OREILLE"
+        },
+        {
+            "category": "9",
+            "code": "OTECCN2",
+            "id": "1417",
+            "label": "OTECTOMIE CN 2 OREILLES"
+        },
+        {
+            "category": "9",
+            "code": "OTECCT1",
+            "id": "1418",
+            "label": "OTECTOMIE CT 1 OREILLE"
+        },
+        {
+            "category": "9",
+            "code": "OTECCT2",
+            "id": "1419",
+            "label": "OTECTOMIE CT 2 OREILLES"
+        },
+        {
+            "category": "9",
+            "code": "OVHCT",
+            "id": "1420",
+            "label": "OVARIO-HYSTERECTOMIE CT"
+        },
+        {
+            "category": "9",
+            "code": "OVHCN1",
+            "id": "1421",
+            "label": "OVARIO-HYSTERECT. CN <10KG"
+        },
+        {
+            "category": "9",
+            "code": "OVHCN2",
+            "id": "1422",
+            "label": "OVARIO-HYSTERECT. CN 10\/20KG"
+        },
+        {
+            "category": "9",
+            "code": "OVHCN3",
+            "id": "1423",
+            "label": "OVARIO-HYSTERECT. CN 20\/35KG"
+        },
+        {
+            "category": "9",
+            "code": "OVHCN4",
+            "id": "1424",
+            "label": "OVARIO-HYSTERECT. >35KG"
+        },
+        {
+            "category": "9",
+            "code": "URETCN",
+            "id": "1425",
+            "label": "URETHROSTOMIE CN"
+        },
+        {
+            "category": "9",
+            "code": "URETCT",
+            "id": "1426",
+            "label": "URETHROSTOMIE CT"
+        },
+        {
+            "category": "17",
+            "code": "HARD1",
+            "id": "1427",
+            "label": "GLANDE DE HARDER UNILATERALE"
+        },
+        {
+            "category": "17",
+            "code": "HARD2",
+            "id": "1428",
+            "label": "GLANDE DE HARDER BILATERALE"
+        },
+        {
+            "category": "17",
+            "code": "LUXOC",
+            "id": "1429",
+            "label": "LUXATION GLOBE OCULAIRE"
+        },
+        {
+            "category": "17",
+            "code": "LUXHAN",
+            "id": "1430",
+            "label": "LUXATION DE LA HANCHE\/REDUCTION MANUELLE"
+        },
+        {
+            "category": "17",
+            "code": "TARSO",
+            "id": "1431",
+            "label": "TARSORRAPHIE"
+        },
+        {
+            "category": "17",
+            "code": "SDTE",
+            "id": "1432",
+            "label": "S.D.T.E \/ GASTROPEXIE"
+        },
+        {
+            "category": "12",
+            "code": "ACC1",
+            "id": "1433",
+            "label": "ACCOMPTE 1"
+        },
+        {
+            "category": "12",
+            "code": "ACC2",
+            "id": "1434",
+            "label": "ACCOMPTE 2"
+        },
+        {
+            "category": "12",
+            "code": "ACC3",
+            "id": "1435",
+            "label": "ACCOMPTE 3"
+        },
+        {
+            "category": "12",
+            "code": "ACC4",
+            "id": "1436",
+            "label": "ACCOMPTE 4"
+        },
+        {
+            "category": "16",
+            "code": "SPAOVH1",
+            "id": "1437",
+            "label": "CHAT DES RUES OVARIO-HYSTEREC CT"
+        },
+        {
+            "category": "12",
+            "code": "HON1",
+            "id": "1438",
+            "label": "HONORAIRES"
+        },
+        {
+            "category": "9",
+            "code": "HERNID1",
+            "id": "1439",
+            "label": "HERNIE DIAPHRAGMATIQUE CHAT"
+        },
+        {
+            "category": "9",
+            "code": "HERNID2",
+            "id": "1440",
+            "label": "HERNIE DIAPHRAGMATIQUE CHIEN"
+        },
+        {
+            "category": "5",
+            "code": "COUGLYC",
+            "id": "1441",
+            "label": "COURBE DE GLYCEMIE FORFAIT"
+        },
+        {
+            "category": "5",
+            "code": "EXP INT",
+            "id": "1442",
+            "label": "FRAIS DE PORT\/EXPEDITION INTERNATIONAL"
+        },
+        {
+            "category": "2",
+            "code": "CATH2",
+            "id": "1443",
+            "label": "CATHETÉRISME VEINEUX CN"
+        },
+        {
+            "category": "2",
+            "code": "I11",
+            "id": "1444",
+            "label": "INJECTION DE DÉSENSIBILISATION"
+        },
+        {
+            "category": "17",
+            "code": "CERCCT",
+            "id": "1445",
+            "label": "CERCLAGE CHAT SIMPLE"
+        },
+        {
+            "category": "17",
+            "code": "CERCCN1",
+            "id": "1446",
+            "label": "CERCLAGE CHIEN SIMPLE"
+        },
+        {
+            "category": "17",
+            "code": "CERCCN2",
+            "id": "1447",
+            "label": "CERCLAGE CHIEN COMPLEXE"
+        },
+        {
+            "category": "3",
+            "code": "TCA",
+            "id": "1448",
+            "label": "CAUTERISATION CORNÉE TCA (UN OEIL)"
+        },
+        {
+            "category": "16",
+            "code": "SPAAGCT",
+            "id": "1449",
+            "label": "CHAT DES RUES AG CHAT"
+        },
+        {
+            "category": "9",
+            "code": "SPLECT",
+            "id": "1450",
+            "label": "SPLENECTOMIE CHAT"
+        },
+        {
+            "category": "9",
+            "code": "SPLECN1",
+            "id": "1451",
+            "label": "SPLENECTOMIE CHIEN PETIT"
+        },
+        {
+            "category": "9",
+            "code": "SPLECN2",
+            "id": "1452",
+            "label": "SPLENECTOMIE CHIEN MOYEN"
+        },
+        {
+            "category": "9",
+            "code": "SPLECN3",
+            "id": "1453",
+            "label": "SPLENECTOMIE CHIEN GRAND"
+        },
+        {
+            "category": "10",
+            "code": "MET B 1",
+            "id": "1454",
+            "label": "OSTÉOSYNTH. META. PAR ENCLOUAGE CENTROMÉDULLAIRE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "GRAFLO1",
+            "id": "1455",
+            "label": "LIGAMENTOPLASTIE DU GRASSET - TECHNIQUE DE FLO - CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "COUFPC2",
+            "id": "1456",
+            "label": "FRAGMENTATION DU PROCESSUS CORONOÏDE MÉDIAL DU COUDE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "MET B 2",
+            "id": "1457",
+            "label": "OSTÉOSYNTH. META. PAR ENCLOUAGE CENTROMÉDULLAIRE CAT.2"
+        },
+        {
+            "category": "2",
+            "code": "MARB",
+            "id": "1458",
+            "label": "MARBOCYL FD 1ML"
+        },
+        {
+            "category": "10",
+            "code": "GRAFLO2",
+            "id": "1459",
+            "label": "LIGAMENTOPLASTIE DU GRASSET -TECHNIQUE DE FLO - CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "MET B 3",
+            "id": "1460",
+            "label": "OSTÉOSYNTH. META. PAR ENCLOUAGE CENTROMÉDULLAIRE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "COUFPC3",
+            "id": "1461",
+            "label": "FRAGMENTATION DU PROCESSUS CORONOÏDE MÉDIAL DU COUDE CAT.3"
+        },
+        {
+            "category": "16",
+            "code": "SJLCCN2",
+            "id": "1462",
+            "label": "APA ST JEAN CASTRATION CN MOYEN"
+        },
+        {
+            "category": "16",
+            "code": "SJLCNN3",
+            "id": "1463",
+            "label": "APA ST JEAN CASTRATION CN GRAND"
+        },
+        {
+            "category": "10",
+            "code": "MET B 4",
+            "id": "1464",
+            "label": "OSTÉOSYNTH. META. PAR ENCLOUAGE CENTROMÉDULLAIRE CAT.4"
+        },
+        {
+            "category": "16",
+            "code": "SJLCCN4",
+            "id": "1465",
+            "label": "APA ST JEAN CASTRATION CN TRES GRAND"
+        },
+        {
+            "category": "10",
+            "code": "GRATTP2",
+            "id": "1466",
+            "label": "LIGAMENTOPLASTIE DU GRASSET - PROTHÈSE TIGHTROPE - CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "GRATTP3",
+            "id": "1467",
+            "label": "LIGAMENTOPLASTIE DU GRASSET - PROTHÈSE TIGHTROPE - CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "COUFPC4",
+            "id": "1468",
+            "label": "FRAGMENTATION DU PROCESSUS CORONOÏDE MÉDIAL DU COUDE CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "MET P 2",
+            "id": "1469",
+            "label": "OSTÉOSYNTH. META. PAR PLAQUE VISSÉE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "COU IA2",
+            "id": "1470",
+            "label": "TRAITEMENT DE L'INCONGRUENCE ARTICULAIRE DU COUDE CAT2"
+        },
+        {
+            "category": "10",
+            "code": "MET P 3",
+            "id": "1471",
+            "label": "OSTÉOSYNTH. META. PAR PLAQUE VISSÉE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "COU IA3",
+            "id": "1472",
+            "label": "TRAITEMENT DE L'INCONGRUENCE ARTICULAIRE DU COUDE CAT3"
+        },
+        {
+            "category": "10",
+            "code": "MET P 4",
+            "id": "1473",
+            "label": "OSTÉOSYNTH. META. PAR PLAQUE VISSÉE CAT.4"
+        },
+        {
+            "category": "16",
+            "code": "SJLIE",
+            "id": "1474",
+            "label": "APA ST JEAN PUCE ELECTRONIQUE"
+        },
+        {
+            "category": "10",
+            "code": "COU IA4",
+            "id": "1475",
+            "label": "TRAITEMENT DE L'INCONGRUENCE ARTICULAIRE DU COUDE CAT4"
+        },
+        {
+            "category": "10",
+            "code": "CARP 1",
+            "id": "1476",
+            "label": "PANARTHRODÈSE OU ARTHODÈSE PARTIELLE CARPE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "CARP 2",
+            "id": "1477",
+            "label": "PANARTHRODÈSE OU ARTHODÈSE PARTIELLE CARPE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "CARP 3",
+            "id": "1478",
+            "label": "PANARTHRODÈSE OU ARTHODÈSE PARTIELLE CARPE CAT.3"
+        },
+        {
+            "category": "13",
+            "code": "REC4",
+            "id": "1479",
+            "label": "PREPARATION RECONCILE 64 MG"
+        },
+        {
+            "category": "10",
+            "code": "CARP 4",
+            "id": "1480",
+            "label": "PANARTHRODÈSE OU ARTHODÈSE PARTIELLE CARPE CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "COUNUP2",
+            "id": "1481",
+            "label": "TRAITEMENT DE LA NON-UNION DU PROCESSUS ANCONÉ CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "COUNUP3",
+            "id": "1482",
+            "label": "TRAITEMENT DE LA NON-UNION DU PROCESSUS ANCONÉ CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "CARLIG1",
+            "id": "1483",
+            "label": "LIGAMENTOPLASTIE DU CARPE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "COUNUP4",
+            "id": "1484",
+            "label": "TRAITEMENT DE LA NON-UNION DU PROCESSUS ANCONÉ CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "CARLIG2",
+            "id": "1485",
+            "label": "LIGAMENTOPLASTIE DU CARPE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "CARLIG3",
+            "id": "1486",
+            "label": "LIGAMENTOPLASTIE DU CARPE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "COULIG1",
+            "id": "1487",
+            "label": "LIGAMENTOPLASTIE DU COUDE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "GRA R 1",
+            "id": "1488",
+            "label": "LUXATION DE LA ROTULE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "GRA R 2",
+            "id": "1489",
+            "label": "LUXATION DE LA ROTULE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "COULIG2",
+            "id": "1490",
+            "label": "LIGAMENTOPLASTIE DU COUDE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "GRA R 3",
+            "id": "1491",
+            "label": "LUXATION DE LA ROTULE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "GRA R 4",
+            "id": "1492",
+            "label": "LUXATION DE LA ROTULE CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "CARLIG4",
+            "id": "1493",
+            "label": "LIGAMENTOPLASTIE DU CARPE CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "RAD 1",
+            "id": "1494",
+            "label": "OSTÉOSYNTHÈSE RADIALE PAR PLAQUE VISSÉE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "RAD 2",
+            "id": "1495",
+            "label": "OSTÉOSYNTHÈSE RADIALE PAR PLAQUE VISSÉE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "RAD 3",
+            "id": "1496",
+            "label": "OSTÉOSYNTHÈSE RADIALE PAR PLAQUE VISSÉE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "RAD 4",
+            "id": "1497",
+            "label": "OSTÉOSYNTHÈSE RADIALE PAR PLAQUE VISSÉE CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "COULIG3",
+            "id": "1498",
+            "label": "LIGAMENTOPLASTIE DU COUDE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "COULIG4",
+            "id": "1499",
+            "label": "LIGAMENTOPLASTIE DU COUDE CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "TIBP1MI",
+            "id": "1500",
+            "label": "OSTÉOSYNTHÈSE TIBIALE PAR PLAQUE VISSÉE CAT.1 MIN"
+        },
+        {
+            "category": "10",
+            "code": "TIBP1MA",
+            "id": "1501",
+            "label": "OSTÉOSYNTHÈSE TIBIALE PAR PLAQUE VISSÉE CAT.1 MAX"
+        },
+        {
+            "category": "4",
+            "code": "LEISH",
+            "id": "1502",
+            "label": "VACCINATION LEISHMANIOSE RAPPEL"
+        },
+        {
+            "category": "13",
+            "code": "VETER",
+            "id": "1503",
+            "label": "VETERGESIC 0,1 ML"
+        },
+        {
+            "category": "10",
+            "code": "TIBP2MI",
+            "id": "1504",
+            "label": "OSTÉOSYNTHÈSE TIBIALE PAR PLAQUE VISSÉE CAT.2 MIN"
+        },
+        {
+            "category": "4",
+            "code": "LEISH P",
+            "id": "1505",
+            "label": "VACCINATION LEISHMANIOSE 3 PRIMO (FORFAIT)"
+        },
+        {
+            "category": "10",
+            "code": "TIBP2MA",
+            "id": "1506",
+            "label": "OSTÉOSYNTHÈSE TIBIALE PAR PLAQUE VISSÉE CAT.2 MAX"
+        },
+        {
+            "category": "10",
+            "code": "COUUNI1",
+            "id": "1507",
+            "label": "OSTÉOSYNTHÈSE DE FRACTURE UNICONDYLIENNE DU COUDE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "TIBP3MI",
+            "id": "1508",
+            "label": "OSTÉOSYNTHÈSE TIBIALE PAR PLAQUE VISSÉE CAT.3 MIN"
+        },
+        {
+            "category": "10",
+            "code": "TIBP3MA",
+            "id": "1509",
+            "label": "OSTÉOSYNTHÈSE TIBIALE PAR PLAQUE VISSÉE CAT.3 MAX"
+        },
+        {
+            "category": "5",
+            "code": "LACT1",
+            "id": "1510",
+            "label": "LACTATES MESURE"
+        },
+        {
+            "category": "6",
+            "code": "RXDY C",
+            "id": "1511",
+            "label": "RADIO NUMÉRIQUE OFFICIELLE DYSPLASIE COUDES"
+        },
+        {
+            "category": "3",
+            "code": "CRY 5",
+            "id": "1512",
+            "label": "CRYOGÉNISATION VERRUES (1-5) 1ERE SCÉANCE"
+        },
+        {
+            "category": "3",
+            "code": "CRY 10",
+            "id": "1513",
+            "label": "CRYOGÉNISATION VERRUES (5-10) 1ERE SCÉANCE"
+        },
+        {
+            "category": "3",
+            "code": "CRY 5 S",
+            "id": "1514",
+            "label": "CRYOGÉNISATION VERRUES (1-5) SCÉANCE SUIVANTE"
+        },
+        {
+            "category": "10",
+            "code": "COUUNI2",
+            "id": "1515",
+            "label": "OSTÉOSYNTHÈSE DE FRACTURE UNICONDYLIENNE DU COUDE CAT.2"
+        },
+        {
+            "category": "3",
+            "code": "CRY10S",
+            "id": "1516",
+            "label": "CRYOGÉNISATION VERRUES (5-10) SCÉANCE SUIVANTE"
+        },
+        {
+            "category": "10",
+            "code": "TIBP4MI",
+            "id": "1517",
+            "label": "OSTÉOSYNTHÈSE TIBIALE PAR PLAQUE VISSÉE CAT.4 MIN"
+        },
+        {
+            "category": "10",
+            "code": "COUUNI3",
+            "id": "1518",
+            "label": "OSTÉOSYNTHÈSE DE FRACTURE UNICONDYLIENNE DU COUDE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "TIBP4MA",
+            "id": "1519",
+            "label": "OSTÉOSYNTHÈSE TIBIALE PAR PLAQUE VISSÉE CAT.4 MAX"
+        },
+        {
+            "category": "10",
+            "code": "COUUNI4",
+            "id": "1520",
+            "label": "OSTÉOSYNTHÈSE DE FRACTURE UNICONDYLIENNE DU COUDE CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "TIB DP1",
+            "id": "1521",
+            "label": "OSTÉOSYNTHÈSE  DISJONCTION ÉPIPHYSAIRE PROXIMALE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "COU Y 1",
+            "id": "1522",
+            "label": "OSTÉOSYNTHÈSE DE FRACTURES BICONDYLIENNES DE L'HUMÉRUS CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "TIB DP2",
+            "id": "1523",
+            "label": "OSTÉOSYNTHÈSE  DISJONCTION ÉPIPHYSAIRE PROXIMALE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "TIB DP3",
+            "id": "1524",
+            "label": "OSTÉOSYNTHÈSE  DISJONCTION ÉPIPHYSAIRE PROXIMALE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "COU Y 2",
+            "id": "1525",
+            "label": "OSTÉOSYNTHÈSE DE FRACTURES BICONDYLIENNES DE L'HUMÉRUS CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "COU Y 3",
+            "id": "1526",
+            "label": "OSTÉOSYNTHÈSE DE FRACTURES BICONDYLIENNES DE L'HUMÉRUS CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "TIB DP4",
+            "id": "1527",
+            "label": "OSTÉOSYNTHÈSE  DISJONCTION ÉPIPHYSAIRE PROXIMALE CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "COU Y 4",
+            "id": "1528",
+            "label": "OSTÉOSYNTHÈSE DE FRACTURES BICONDYLIENNES DE L'HUMÉRUS CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "TIB DD1",
+            "id": "1529",
+            "label": "OSTÉOSYNTHÈSE DISJONCTION ÉPIPHYSAIRE DISTALE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "HUMMIN1",
+            "id": "1530",
+            "label": "OSTÉOSYNTHÈSE DE L'HUMÉRUS CAT.1 MIN"
+        },
+        {
+            "category": "10",
+            "code": "HUMMIN2",
+            "id": "1531",
+            "label": "OSTÉOSYNTHÈSE DE L'HUMÉRUS CAT.2 MIN"
+        },
+        {
+            "category": "10",
+            "code": "HUMMIN3",
+            "id": "1532",
+            "label": "OSTÉOSYNTHÈSE DE L'HUMÉRUS CAT.3 MIN"
+        },
+        {
+            "category": "10",
+            "code": "HUMMIN4",
+            "id": "1533",
+            "label": "OSTÉOSYNTHÈSE DE L'HUMÉRUS CAT.4 MIN"
+        },
+        {
+            "category": "10",
+            "code": "HUMMAX2",
+            "id": "1534",
+            "label": "OSTÉOSYNTHÈSE DE L'HUMÉRUS CAT.2 MAX"
+        },
+        {
+            "category": "10",
+            "code": "HUMMAX3",
+            "id": "1535",
+            "label": "OSTÉOSYNTHÈSE DE L'HUMÉRUS CAT.3 MAX"
+        },
+        {
+            "category": "10",
+            "code": "HUMMAX4",
+            "id": "1536",
+            "label": "OSTÉOSYNTHÈSE DE L'HUMÉRUS CAT.4 MAX"
+        },
+        {
+            "category": "10",
+            "code": "HUMMAX1",
+            "id": "1537",
+            "label": "OSTÉOSYNTHÈSE DE L'HUMÉRUS CAT.1 MAX"
+        },
+        {
+            "category": "10",
+            "code": "RAD\/UL1",
+            "id": "1538",
+            "label": "OSTÉOSYNTHÈSE DU RADIUS ET DE ULNA CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "RAD\/UL2",
+            "id": "1539",
+            "label": "OSTÉOSYNTHÈSE DU RADIUS ET DE ULNA CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "RAD\/UL3",
+            "id": "1540",
+            "label": "OSTÉOSYNTHÈSE DU RADIUS ET DE ULNA CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "HUM DE1",
+            "id": "1541",
+            "label": "OSTÉOSYNTHÈSE DE LA DISJONCTION ÉPIPHYSAIRE PROXIMALE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "HUM DE2",
+            "id": "1542",
+            "label": "OSTÉOSYNTHÈSE DE LA DISJONCTION ÉPIPHYSAIRE PROXIMALE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "HUM DE3",
+            "id": "1543",
+            "label": "OSTÉOSYNTHÈSE DE LA DISJONCTION ÉPIPHYSAIRE PROXIMALE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "HUM DE4",
+            "id": "1544",
+            "label": "OSTÉOSYNTHÈSE DE LA DISJONCTION ÉPIPHYSAIRE PROXIMALE CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "EPA BI1",
+            "id": "1545",
+            "label": "TRANSPOSITION DU BICEPS CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "EPA BI2",
+            "id": "1546",
+            "label": "TRANSPOSITION DU BICEPS CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "EPA BI3",
+            "id": "1547",
+            "label": "TRANSPOSITION DU BICEPS CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "EPA BI4",
+            "id": "1548",
+            "label": "TRANSPOSITION DU BICEPS CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "EPAART1",
+            "id": "1549",
+            "label": "ARTHRODÈSE DE L'ÉPAULE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "EAPART2",
+            "id": "1550",
+            "label": "ARTHRODÈSE DE L'ÉPAULE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "EPAART3",
+            "id": "1551",
+            "label": "ARTHRODÈSE DE L'ÉPAULE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "EPAART4",
+            "id": "1552",
+            "label": "ARTHRODÈSE DE L'ÉPAULE CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "EPAOCD1",
+            "id": "1553",
+            "label": "TRAITEMENT CHIRURGICAL DE L'OCD DE L'ÉPAULE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "EPAOCD2",
+            "id": "1554",
+            "label": "TRAITEMENT CHIRURGICAL DE L'OCD DE L'ÉPAULE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "EPAOCD3",
+            "id": "1555",
+            "label": "TRAITEMENT CHIRURGICAL DE L'OCD DE L'ÉPAULE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "EPAOCD4",
+            "id": "1556",
+            "label": "TRAITEMENT CHIRURGICAL DE L'OCD DE L'ÉPAULE CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "TAR AP1",
+            "id": "1557",
+            "label": "ARTHRODÈSE PARTIELLE DU TARSE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "TAR AP2",
+            "id": "1558",
+            "label": "ARTHRODÈSE PARTIELLE DU TARSE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "TAR AP3",
+            "id": "1559",
+            "label": "ARTHRODÈSE PARTIELLE DU TARSE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "TAR AP4",
+            "id": "1560",
+            "label": "ARTHRODÈSE PARTIELLE DU TARSE CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "TAR AT1",
+            "id": "1561",
+            "label": "PANARTHRODÈSE DU TARSE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "TAR AT2",
+            "id": "1562",
+            "label": "PANARTHRODÈSE DU TARSE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "TAR AT3",
+            "id": "1563",
+            "label": "PANARTHRODÈSE DU TARSE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "TAR AT4",
+            "id": "1564",
+            "label": "PANARTHRODÈSE DU TARSE CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "TAR FE1",
+            "id": "1565",
+            "label": "TRIANGULATION TARSIENNE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "TAR FE2",
+            "id": "1566",
+            "label": "TRIANGULATION TARSIENNE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "TAR FE3",
+            "id": "1567",
+            "label": "TRIANGULATION TARSIENNE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "TAR FE4",
+            "id": "1568",
+            "label": "TRIANGULATION TARSIENNE CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "TAROCD1",
+            "id": "1569",
+            "label": "TRAITEMENT CHIRURGICAL DE L'OCD DU TARSE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "TAROCD3",
+            "id": "1570",
+            "label": "TRAITEMENT CHIRURGICAL DE L'OCD DU TARSE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "TAROCD4",
+            "id": "1571",
+            "label": "TRAITEMENT CHIRURGICAL DE L'OCD DU TARSE CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "FEMMIN1",
+            "id": "1572",
+            "label": "OSTÉOSYNTHÈSE FÉMORALE PAR PLAQUE VISSÉE CAT.1 MIN"
+        },
+        {
+            "category": "10",
+            "code": "FEMMIN2",
+            "id": "1573",
+            "label": "OSTÉOSYNTHÈSE FÉMORALE PAR PLAQUE VISSÉE CAT.2 MIN"
+        },
+        {
+            "category": "10",
+            "code": "FEMMIN3",
+            "id": "1574",
+            "label": "OSTÉOSYNTHÈSE FÉMORALE PAR PLAQUE VISSÉE CAT.3 MIN"
+        },
+        {
+            "category": "10",
+            "code": "FEMMIN4",
+            "id": "1575",
+            "label": "OSTÉOSYNTHÈSE FÉMORALE PAR PLAQUE VISSÉE CAT.4 MIN"
+        },
+        {
+            "category": "10",
+            "code": "FEMMAX1",
+            "id": "1576",
+            "label": "OSTÉOSYNTHÈSE FÉMORALE PAR PLAQUE VISSÉE CAT.1 MAX"
+        },
+        {
+            "category": "10",
+            "code": "FEMMAX2",
+            "id": "1577",
+            "label": "OSTÉOSYNTHÈSE FÉMORALE PAR PLAQUE VISSÉE CAT.2 MAX"
+        },
+        {
+            "category": "10",
+            "code": "FEMMAX3",
+            "id": "1578",
+            "label": "OSTÉOSYNTHÈSE FÉMORALE PAR PLAQUE VISSÉE CAT.3 MAX"
+        },
+        {
+            "category": "10",
+            "code": "FEMMAX4",
+            "id": "1579",
+            "label": "OSTÉOSYNTHÈSE FÉMORALE PAR PLAQUE VISSÉE CAT.4 MAX"
+        },
+        {
+            "category": "10",
+            "code": "FEM DP1",
+            "id": "1580",
+            "label": "OSTÉOSYNTHÈSE DISJONCTION ÉPIPHYSAIRE PROXIMALE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "FEM DP2",
+            "id": "1581",
+            "label": "OSTÉOSYNTHÈSE DISJONCTION ÉPIPHYSAIRE PROXIMALE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "FEM DP3",
+            "id": "1582",
+            "label": "OSTÉOSYNTHÈSE DISJONCTION ÉPIPHYSAIRE PROXIMALE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "FEM DP4",
+            "id": "1583",
+            "label": "OSTÉOSYNTHÈSE DISJONCTION ÉPIPHYSAIRE PROXIMALE CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "FEM DD2",
+            "id": "1584",
+            "label": "OSTÉOSYNTHÈSE DISJONCTION ÉPIPHYSAIRE DISTALE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "FEM DD3",
+            "id": "1585",
+            "label": "OSTÉOSYNTHÈSE DISJONCTION ÉPIPHYSAIRE DISTALE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "FEM DD4",
+            "id": "1586",
+            "label": "OSTÉOSYNTHÈSE DISJONCTION ÉPIPHYSAIRE DISTALE CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "HANETC1",
+            "id": "1587",
+            "label": "ÉXÉRÈSE\/ARTHROPLASTIE DE LA TÊTE ET DU COL FÉMORAL CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "HANETC2",
+            "id": "1588",
+            "label": "ÉXÉRÈSE\/ARTHROPLASTIE DE LA TÊTE ET DU COL FÉMORAL CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "HANETC3",
+            "id": "1589",
+            "label": "ÉXÉRÈSE\/ARTHROPLASTIE DE LA TÊTE ET DU COL FÉMORAL CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "HANETC4",
+            "id": "1590",
+            "label": "ÉXÉRÈSE\/ARTHROPLASTIE DE LA TÊTE ET DU COL FÉMORAL CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "HANTOB3",
+            "id": "1591",
+            "label": "TRIPLE OSTÉOTOMIE DU BASSIN CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "HANTOB4",
+            "id": "1592",
+            "label": "TRIPLE OSTÉOTOMIE DU BASSIN CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "BAS IL1",
+            "id": "1593",
+            "label": "OSTÉOSYNTHÈSE DE L'ILIUM PAR POSE D'UNE PLAQUE VISSÉE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "BAS IL2",
+            "id": "1594",
+            "label": "OSTÉOSYNTHÈSE DE L'ILIUM PAR POSE D'UNE PLAQUE VISSÉE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "BAS IL3",
+            "id": "1595",
+            "label": "OSTÉOSYNTHÈSE DE L'ILIUM PAR POSE D'UNE PLAQUE VISSÉE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "BAS IL4",
+            "id": "1596",
+            "label": "OSTÉOSYNTHÈSE DE L'ILIUM PAR POSE D'UNE PLAQUE VISSÉE CAT.14"
+        },
+        {
+            "category": "10",
+            "code": "BAS AC1",
+            "id": "1597",
+            "label": "OSTÉOSYNTHÈSE ACÉTABULAIRE PAR PLAQUE VISSÉE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "BAS AC2",
+            "id": "1598",
+            "label": "OSTÉOSYNTHÈSE ACÉTABULAIRE PAR PLAQUE VISSÉE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "BAS AC3",
+            "id": "1599",
+            "label": "OSTÉOSYNTHÈSE ACÉTABULAIRE PAR PLAQUE VISSÉE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "BAS AC4",
+            "id": "1600",
+            "label": "OSTÉOSYNTHÈSE ACÉTABULAIRE PAR PLAQUE VISSÉE CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "BASLSI1",
+            "id": "1601",
+            "label": "RÉDUCTION\/STABILISATION DE LUXATION SACRO-ILIAQUE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "BASLSI2",
+            "id": "1602",
+            "label": "RÉDUCTION\/STABILISATION DE LUXATION SACRO-ILIAQUE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "BASLSI3",
+            "id": "1603",
+            "label": "RÉDUCTION\/STABILISATION DE LUXATION SACRO-ILIAQUE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "BASLSI4",
+            "id": "1604",
+            "label": "RÉDUCTION\/STABILISATION DE LUXATION SACRO-ILIAQUE CAT.4"
+        },
+        {
+            "category": "10",
+            "code": "MACH 1",
+            "id": "1605",
+            "label": "OSTÉOSYNTHÈSE DE LA MANDIBULE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "MACH 2",
+            "id": "1606",
+            "label": "OSTÉOSYNTHÈSE DE LA MANDIBULE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "MACH 3",
+            "id": "1607",
+            "label": "OSTÉOSYNTHÈSE DE LA MANDIBULE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "MACH 4",
+            "id": "1608",
+            "label": "OSTÉOSYNTHÈSE DE LA MANDIBULE CAT.4"
+        },
+        {
+            "category": "6",
+            "code": "MYÉLOCT",
+            "id": "1609",
+            "label": "MYÉLOGRAPHIE CHAT"
+        },
+        {
+            "category": "9",
+            "code": "HERNIP2",
+            "id": "1610",
+            "label": "HERNIE PERINEALE BILATÉRALE 3 TEMPS OPÉRATOIRES"
+        },
+        {
+            "category": "6",
+            "code": "MYÉLCN1",
+            "id": "1611",
+            "label": "MYÉLOGRAPHIE CHIEN CAT.1"
+        },
+        {
+            "category": "6",
+            "code": "MYÉLCN2",
+            "id": "1612",
+            "label": "MYÉLOGRAPHIE CHIEN CAT.2"
+        },
+        {
+            "category": "6",
+            "code": "MYÉLCN3",
+            "id": "1613",
+            "label": "MYÉLOGRAPHIE CHIEN CAT.3"
+        },
+        {
+            "category": "6",
+            "code": "MYÉLCN4",
+            "id": "1614",
+            "label": "MYÉLOGRAPHIE CHIEN CAT.4"
+        },
+        {
+            "category": "18",
+            "code": "INCINNA",
+            "id": "1615",
+            "label": "INCINERATION INDIVIDUELLE NAC"
+        },
+        {
+            "category": "9",
+            "code": "DENTA3",
+            "id": "1616",
+            "label": "EXTRACTION DENTS ADULTES TOTALE"
+        },
+        {
+            "category": "9",
+            "code": "HERNII2",
+            "id": "1617",
+            "label": "HERNIE INGUINALE COMPLEXE"
+        },
+        {
+            "category": "5",
+            "code": "TCOAG",
+            "id": "1618",
+            "label": "TEMPS DE COAGULATION"
+        },
+        {
+            "category": "5",
+            "code": "TSAIG",
+            "id": "1619",
+            "label": "TEMPS DE SAIGNEMENT SURGICUT"
+        },
+        {
+            "category": "5",
+            "code": "BDIAR3",
+            "id": "1620",
+            "label": "BILAN DIARRHEE TRIPLE:GIARDIA PARVO CORONV"
+        },
+        {
+            "category": "9",
+            "code": "BIOREN1",
+            "id": "1621",
+            "label": "BIOPSIE RÉNALE UNILATÉRALE"
+        },
+        {
+            "category": "9",
+            "code": "BIOREN",
+            "id": "1622",
+            "label": "BIOPSIE RÉNALE BILATÉRALE"
+        },
+        {
+            "category": "9",
+            "code": "BIOOSS1",
+            "id": "1623",
+            "label": "BIOPSIE OSSEUSE COSTALE"
+        },
+        {
+            "category": "9",
+            "code": "BIOOSS2",
+            "id": "1624",
+            "label": "BIOPSIE OSSEUSE OS LONG"
+        },
+        {
+            "category": "3",
+            "code": "RHINO",
+            "id": "1625",
+            "label": "RHINOLITHES PERROQUET SANS AG"
+        },
+        {
+            "category": "13",
+            "code": "VAF1",
+            "id": "1626",
+            "label": "VISCUM ALBUM QUERCUS TRAITEMENT 20 ML"
+        },
+        {
+            "category": "3",
+            "code": "RHIN AG",
+            "id": "1627",
+            "label": "RHINOLITHES PERROQUET SOUS AG"
+        },
+        {
+            "category": "10",
+            "code": "POSTOP1",
+            "id": "1628",
+            "label": "FORFAIT POST-OPERATOIRE SIMPLE"
+        },
+        {
+            "category": "9",
+            "code": "EPI 1",
+            "id": "1629",
+            "label": "EXTRACTION EPILLET SIMPLE"
+        },
+        {
+            "category": "9",
+            "code": "EPI 2",
+            "id": "1630",
+            "label": "EXTRACTION EPILLET MOYEN"
+        },
+        {
+            "category": "9",
+            "code": "EPI 3",
+            "id": "1631",
+            "label": "EXTRACTION EPILLET COMPLEXE"
+        },
+        {
+            "category": "3",
+            "code": "PS3",
+            "id": "1632",
+            "label": "PANSEMENT PETIT"
+        },
+        {
+            "category": "6",
+            "code": "FIBR01",
+            "id": "1633",
+            "label": "FIBROSCOPIE EXPLORATRICE SIMPLE"
+        },
+        {
+            "category": "16",
+            "code": "SPAK",
+            "id": "1634",
+            "label": "CHAT DES RUES CONSULTATION"
+        },
+        {
+            "category": "9",
+            "code": "NEPHRCT",
+            "id": "1635",
+            "label": "NÉPHRECTOMIE CT"
+        },
+        {
+            "category": "12",
+            "code": "CER CES",
+            "id": "1636",
+            "label": "CERTIFICAT DE CESSION"
+        },
+        {
+            "category": "10",
+            "code": "AMO MIN",
+            "id": "1637",
+            "label": "RETRAIT PLAQUE\/BROCHE SIMPLE (SANS AG)"
+        },
+        {
+            "category": "10",
+            "code": "AMO MAX",
+            "id": "1638",
+            "label": "RETRAIT PLAQUE\/BROCHE COMPLEXE (SANS AG)"
+        },
+        {
+            "category": "5",
+            "code": "TESTPIF",
+            "id": "1639",
+            "label": "TEST PIF"
+        },
+        {
+            "category": "9",
+            "code": "HERNIA1",
+            "id": "1640",
+            "label": "HERNIE ABDOMINALE SIMPLE"
+        },
+        {
+            "category": "9",
+            "code": "HERNIA2",
+            "id": "1641",
+            "label": "HERNIE ABDOMINALE COMPLEXE"
+        },
+        {
+            "category": "6",
+            "code": "RX+",
+            "id": "1642",
+            "label": "RADIO NUMERIQUE CLICHÉ SUPPLÉMENTAIRE"
+        },
+        {
+            "category": "12",
+            "code": "DOSS",
+            "id": "1643",
+            "label": "FRAIS DE DOSSIER"
+        },
+        {
+            "category": "5",
+            "code": "TESTLK",
+            "id": "1644",
+            "label": "TEST SPEED LEISH K"
+        },
+        {
+            "category": "5",
+            "code": "TESTFPL",
+            "id": "1645",
+            "label": "TEST SNAP FPL"
+        },
+        {
+            "category": "5",
+            "code": "TESTCPL",
+            "id": "1646",
+            "label": "TEST SNAP CPL"
+        },
+        {
+            "category": "5",
+            "code": "TEST4DX",
+            "id": "1647",
+            "label": "TEST SNAP 4 DX"
+        },
+        {
+            "category": "9",
+            "code": "NEPHRCN",
+            "id": "1648",
+            "label": "NEPHRECTOMIE CN"
+        },
+        {
+            "category": "15",
+            "code": "KITCHIM",
+            "id": "1649",
+            "label": "SET MATÉRIEL CHIMIO"
+        },
+        {
+            "category": "15",
+            "code": "LOMU20",
+            "id": "1650",
+            "label": "LOMUSTINE GÉLULE 20 MG"
+        },
+        {
+            "category": "15",
+            "code": "LOMU40",
+            "id": "1651",
+            "label": "LOMUSTINE GÉLULE 40 MG"
+        },
+        {
+            "category": "15",
+            "code": "ADRI10",
+            "id": "1652",
+            "label": "ADRIBLASTINE 10 MG"
+        },
+        {
+            "category": "13",
+            "code": "MAS50",
+            "id": "1653",
+            "label": "MASIVET 50 MG 30CPES"
+        },
+        {
+            "category": "13",
+            "code": "REC8",
+            "id": "1654",
+            "label": "PREPARATION RECONCILE 8 MG 30 GÉL"
+        },
+        {
+            "category": "13",
+            "code": "REC16",
+            "id": "1655",
+            "label": "PREPARATION RECONCILE 16MG 30 GÉL"
+        },
+        {
+            "category": "13",
+            "code": "REC32",
+            "id": "1656",
+            "label": "PRÉPARATION RECONCILE 32MG 30 GÉL"
+        },
+        {
+            "category": "3",
+            "code": "SONTHO",
+            "id": "1657",
+            "label": "POSE DRAIN THORACIQUE (HORS AG ET DRAIN)"
+        },
+        {
+            "category": "5",
+            "code": "MICR05",
+            "id": "1658",
+            "label": "LAME MICROSCOPE CALQUE CUTANÉ"
+        },
+        {
+            "category": "1",
+            "code": "COS",
+            "id": "1659",
+            "label": "CONSULTATION OSTEOPATHIE"
+        },
+        {
+            "category": "13",
+            "code": "AST01",
+            "id": "1660",
+            "label": "ASTONIN"
+        },
+        {
+            "category": "10",
+            "code": "HAN P1",
+            "id": "1661",
+            "label": "LIGAMENTOPLASTIE DE LA HANCHE CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "HAN P2",
+            "id": "1662",
+            "label": "LIGAMENTOPLASTIE DE LA HANCHE CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "HAN P3",
+            "id": "1663",
+            "label": "LIGAMENTOPLASTIE DE LA HANCHE CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "HAN P4",
+            "id": "1664",
+            "label": "LIGAMENTOPLASTIE DE LA HANCHE CAT.4"
+        },
+        {
+            "category": "17",
+            "code": "SYNBRA",
+            "id": "1665",
+            "label": "SYNDROME BRACHYCEPHALE"
+        },
+        {
+            "category": "12",
+            "code": "PNF1",
+            "id": "1666",
+            "label": "FRAIS PNF <500 EUROS"
+        },
+        {
+            "category": "12",
+            "code": "PNF2",
+            "id": "1667",
+            "label": "FRAIS PNF >500 EUROS"
+        },
+        {
+            "category": "5",
+            "code": "ECBU",
+            "id": "1668",
+            "label": "ECBU"
+        },
+        {
+            "category": "10",
+            "code": "POSTOP2",
+            "id": "1669",
+            "label": "FORFAIT POST-OPERATOIRE COMPLEXE"
+        },
+        {
+            "category": "3",
+            "code": "THO1",
+            "id": "1670",
+            "label": "THORACOCENTÈSE"
+        },
+        {
+            "category": "3",
+            "code": "",
+            "id": "1671",
+            "label": ""
+        },
+        {
+            "category": "17",
+            "code": "SIA",
+            "id": "1672",
+            "label": "SIALOCÈLE"
+        },
+        {
+            "category": "4",
+            "code": "CHPLR+P",
+            "id": "1673",
+            "label": "VACCINATION CHPPILR+TOUX CHENIL"
+        },
+        {
+            "category": "4",
+            "code": "TCCH",
+            "id": "1674",
+            "label": "VACCINATION TC+CHLAM"
+        },
+        {
+            "category": "17",
+            "code": "AB COND",
+            "id": "1675",
+            "label": "TECA - ABLATION TOTALE DU CONDUIT AUDITIF EXTERNE(HORS AG)"
+        },
+        {
+            "category": "13",
+            "code": "KITDES",
+            "id": "1676",
+            "label": "KIT DESENSIBILISATION DESTAING"
+        },
+        {
+            "category": "13",
+            "code": "AUGM",
+            "id": "1677",
+            "label": "AUGMENTIN 1G INJECTABLE IV\/AMPOULE"
+        },
+        {
+            "category": "5",
+            "code": "BREIN",
+            "id": "1678",
+            "label": "BILAN BIOCHIMIQUE RÉNAL"
+        },
+        {
+            "category": "13",
+            "code": "COLLY",
+            "id": "1679",
+            "label": "PREPARATION COLLYRE RENFORCEE EN GENTAMYCINE"
+        },
+        {
+            "category": "3",
+            "code": "LAVR2",
+            "id": "1680",
+            "label": "LAVEMENT RECTAL GRAND"
+        },
+        {
+            "category": "16",
+            "code": "SJLOVH",
+            "id": "1681",
+            "label": "APA ST JEAN OVARIO-HYSTEREC CT"
+        },
+        {
+            "category": "16",
+            "code": "SJLEUTH",
+            "id": "1682",
+            "label": "APA EUTHANASIE CHAT"
+        },
+        {
+            "category": "16",
+            "code": "SJLAGCT",
+            "id": "1683",
+            "label": "APA ST JEAN ANESTHESIE CHAT"
+        },
+        {
+            "category": "16",
+            "code": "SJLFIVL",
+            "id": "1684",
+            "label": "APA ST JEAN TEST FELV\/FIV"
+        },
+        {
+            "category": "16",
+            "code": "AAEIE2",
+            "id": "1685",
+            "label": "AAE IE VACATION"
+        },
+        {
+            "category": "10",
+            "code": "GRATTP4",
+            "id": "1686",
+            "label": "LIGAMENTOPLASTIE DU GRASSET - PROTHÈSE TIGHTROPE - CAT.4"
+        },
+        {
+            "category": "16",
+            "code": "AAERX2",
+            "id": "1687",
+            "label": "AAE RADIOGRAPHIE CN MOYEN\/GROS"
+        },
+        {
+            "category": "16",
+            "code": "AAESOI2",
+            "id": "1688",
+            "label": "AAE SOINS CONSERVATOIRES CN MOYEN"
+        },
+        {
+            "category": "16",
+            "code": "AAESOI3",
+            "id": "1689",
+            "label": "AAE SOINS CONSERVATOIRES GD CN"
+        },
+        {
+            "category": "10",
+            "code": "GRATPL1",
+            "id": "1690",
+            "label": "LIGAMENTOPLASTIE DU GRASSET PAR TPLO - CAT.1"
+        },
+        {
+            "category": "10",
+            "code": "GRATPL2",
+            "id": "1691",
+            "label": "LIGAMENTOPLASTIE DU GRASSET PAR TPLO - CAT.2"
+        },
+        {
+            "category": "10",
+            "code": "GRATPL3",
+            "id": "1692",
+            "label": "LIGAMENTOPLASTIE DU GRASSET PAR TPLO - CAT.3"
+        },
+        {
+            "category": "10",
+            "code": "GRATPL4",
+            "id": "1693",
+            "label": "LIGAMENTOPLASTIE DU GRASSET PAR TPLO - CAT.4"
+        },
+        {
+            "category": "16",
+            "code": "AAEMORT",
+            "id": "1694",
+            "label": "AAE EUTHANASIE CT MORIBOND"
+        },
+        {
+            "category": "16",
+            "code": "AAEFIV",
+            "id": "1695",
+            "label": "AAE TEST FELV\/FIV"
+        },
+        {
+            "category": "16",
+            "code": "AAEAG1",
+            "id": "1696",
+            "label": "AAE ANESTHESIE CT (NON CHIRURGICALE)"
+        },
+        {
+            "category": "16",
+            "code": "AAEAG2",
+            "id": "1697",
+            "label": "AAE ANESTHESIE CN MOYEN (NON CHIRURGICALE)"
+        },
+        {
+            "category": "16",
+            "code": "AAEAG3",
+            "id": "1698",
+            "label": "AAE ANESTHESIE CN GRAND (NON CHIRURGICALE)"
+        },
+        {
+            "category": "13",
+            "code": "AML1",
+            "id": "1699",
+            "label": "GELULE AMLOR L'UNITÉ"
+        },
+        {
+            "category": "10",
+            "code": "INJ PRP",
+            "id": "1700",
+            "label": "INJECTION DE PRP"
+        }
+    ],
+    "acts_categories": [
+        {
+            "id": "1",
+            "label": "Consultations"
+        },
+        {
+            "id": "2",
+            "label": "Injections"
+        },
+        {
+            "id": "3",
+            "label": "Soins\/Actes Méd."
+        },
+        {
+            "id": "4",
+            "label": "Vaccinations"
+        },
+        {
+            "id": "5",
+            "label": "Laboratoire"
+        },
+        {
+            "id": "6",
+            "label": "Imagerie"
+        },
+        {
+            "id": "7",
+            "label": "Identification"
+        },
+        {
+            "id": "8",
+            "label": "Anesthésie"
+        },
+        {
+            "id": "9",
+            "label": "Chirurgie Génerale"
+        },
+        {
+            "id": "10",
+            "label": "Orthopédie"
+        },
+        {
+            "id": "11",
+            "label": "Hospit\/perfusion"
+        },
+        {
+            "id": "12",
+            "label": "Divers"
+        },
+        {
+            "id": "13",
+            "label": "Médicaments"
+        },
+        {
+            "id": "14",
+            "label": "Chir. Convenance"
+        },
+        {
+            "id": "15",
+            "label": "Chimiotherapie"
+        },
+        {
+            "id": "16",
+            "label": "Associations"
+        },
+        {
+            "id": "17",
+            "label": "Chirurgie spécialisée"
+        },
+        {
+            "id": "18",
+            "label": "Eutha\/incinération"
+        }
+    ],
+    "breeds": [
+        {
+            "id": "155",
+            "label": "Boxer",
+            "species": "151"
+        },
+        {
+            "id": "156",
+            "label": "Braque Allemand",
+            "species": "151"
+        },
+        {
+            "id": "157",
+            "label": "Briard",
+            "species": "151"
+        },
+        {
+            "id": "158",
+            "label": "Bull Terrier du Staffordshire",
+            "species": "151"
+        },
+        {
+            "id": "159",
+            "label": "Bullmastiff",
+            "species": "151"
+        },
+        {
+            "id": "160",
+            "label": "Cairn Terrier",
+            "species": "151"
+        },
+        {
+            "id": "161",
+            "label": "Caniche Royal",
+            "species": "151"
+        },
+        {
+            "id": "162",
+            "label": "Cavalier King Charles",
+            "species": "151"
+        },
+        {
+            "id": "163",
+            "label": "Chihuahua",
+            "species": "151"
+        },
+        {
+            "id": "164",
+            "label": "Chow Chow",
+            "species": "151"
+        },
+        {
+            "id": "165",
+            "label": "Cocker Spaniel",
+            "species": "151"
+        },
+        {
+            "id": "166",
+            "label": "Colley",
+            "species": "151"
+        },
+        {
+            "id": "167",
+            "label": "Dalmatien",
+            "species": "151"
+        },
+        {
+            "id": "168",
+            "label": "Dobermann",
+            "species": "151"
+        },
+        {
+            "id": "169",
+            "label": "Dogue Allemand",
+            "species": "151"
+        },
+        {
+            "id": "170",
+            "label": "King Charles spaniel",
+            "species": "151"
+        },
+        {
+            "id": "171",
+            "label": "Epagneul Nain Continental",
+            "species": "151"
+        },
+        {
+            "id": "172",
+            "label": "Epagneul Picard",
+            "species": "151"
+        },
+        {
+            "id": "173",
+            "label": "Epagneul de Pont Audemer",
+            "species": "151"
+        },
+        {
+            "id": "174",
+            "label": "Epagneul Tibétain",
+            "species": "151"
+        },
+        {
+            "id": "175",
+            "label": "Eurasier",
+            "species": "151"
+        },
+        {
+            "id": "176",
+            "label": "Francais",
+            "species": "151"
+        },
+        {
+            "id": "177",
+            "label": "Galgo Espagnol",
+            "species": "151"
+        },
+        {
+            "id": "178",
+            "label": "Norwich Terrier",
+            "species": "151"
+        },
+        {
+            "id": "179",
+            "label": "Petit Basset Griffon Vendéen",
+            "species": "151"
+        },
+        {
+            "id": "180",
+            "label": "Petit Bleu de Gascogne",
+            "species": "151"
+        },
+        {
+            "id": "181",
+            "label": "Petit Lévrier Italien",
+            "species": "151"
+        },
+        {
+            "id": "182",
+            "label": "Pinscher Moyen",
+            "species": "151"
+        },
+        {
+            "id": "183",
+            "label": "Podenco",
+            "species": "151"
+        },
+        {
+            "id": "184",
+            "label": "Poitevin",
+            "species": "151"
+        },
+        {
+            "id": "185",
+            "label": "Porcelaine",
+            "species": "151"
+        },
+        {
+            "id": "186",
+            "label": "Puli",
+            "species": "151"
+        },
+        {
+            "id": "187",
+            "label": "Pumi",
+            "species": "151"
+        },
+        {
+            "id": "188",
+            "label": "Rhodesian Ridgeback",
+            "species": "151"
+        },
+        {
+            "id": "189",
+            "label": "Charplanina",
+            "species": "151"
+        },
+        {
+            "id": "190",
+            "label": "Schipperke",
+            "species": "151"
+        },
+        {
+            "id": "191",
+            "label": "Scottish Terrier",
+            "species": "151"
+        },
+        {
+            "id": "192",
+            "label": "Sealyham Terrier",
+            "species": "151"
+        },
+        {
+            "id": "193",
+            "label": "Shar Peï",
+            "species": "151"
+        },
+        {
+            "id": "194",
+            "label": "Shetland",
+            "species": "151"
+        },
+        {
+            "id": "195",
+            "label": "Silky Terrier",
+            "species": "151"
+        },
+        {
+            "id": "196",
+            "label": "Skye Terrier",
+            "species": "151"
+        },
+        {
+            "id": "197",
+            "label": "Sloughi",
+            "species": "151"
+        },
+        {
+            "id": "198",
+            "label": "Spitz moyen",
+            "species": "151"
+        },
+        {
+            "id": "199",
+            "label": "Springer Spaniel",
+            "species": "151"
+        },
+        {
+            "id": "200",
+            "label": "Basenji",
+            "species": "151"
+        },
+        {
+            "id": "201",
+            "label": "Sussex Spaniel",
+            "species": "151"
+        },
+        {
+            "id": "202",
+            "label": "Tatras",
+            "species": "151"
+        },
+        {
+            "id": "203",
+            "label": "Tervueren",
+            "species": "151"
+        },
+        {
+            "id": "204",
+            "label": "Tosa",
+            "species": "151"
+        },
+        {
+            "id": "205",
+            "label": "Welsh Corgi-Pembrocke",
+            "species": "151"
+        },
+        {
+            "id": "206",
+            "label": "Xoloitzcuintle",
+            "species": "151"
+        },
+        {
+            "id": "207",
+            "label": "Spitz nain",
+            "species": "151"
+        },
+        {
+            "id": "208",
+            "label": "Petit Spitz",
+            "species": "151"
+        },
+        {
+            "id": "209",
+            "label": "Spitz Loup",
+            "species": "151"
+        },
+        {
+            "id": "210",
+            "label": "Teckel nain",
+            "species": "151"
+        },
+        {
+            "id": "211",
+            "label": "Kaninchen Teckel",
+            "species": "151"
+        },
+        {
+            "id": "212",
+            "label": "Dogue de Bordeaux",
+            "species": "151"
+        },
+        {
+            "id": "213",
+            "label": "Drahthaar",
+            "species": "151"
+        },
+        {
+            "id": "214",
+            "label": "Epagneul Breton",
+            "species": "151"
+        },
+        {
+            "id": "215",
+            "label": "Flat Coated Retriever",
+            "species": "151"
+        },
+        {
+            "id": "216",
+            "label": "Fox Terrier",
+            "species": "151"
+        },
+        {
+            "id": "217",
+            "label": "Golden Retriever",
+            "species": "151"
+        },
+        {
+            "id": "218",
+            "label": "Grand Spitz",
+            "species": "151"
+        },
+        {
+            "id": "219",
+            "label": "Greyhound",
+            "species": "151"
+        },
+        {
+            "id": "220",
+            "label": "Griffon Bruxellois",
+            "species": "151"
+        },
+        {
+            "id": "221",
+            "label": "Griffon Fauve de Bretagne",
+            "species": "151"
+        },
+        {
+            "id": "222",
+            "label": "Irish Terrier",
+            "species": "151"
+        },
+        {
+            "id": "223",
+            "label": "Irish Water Spaniel",
+            "species": "151"
+        },
+        {
+            "id": "224",
+            "label": "Jack Russel Terrier",
+            "species": "151"
+        },
+        {
+            "id": "225",
+            "label": "Labrador Retriever",
+            "species": "151"
+        },
+        {
+            "id": "226",
+            "label": "Lhassa Apso",
+            "species": "151"
+        },
+        {
+            "id": "227",
+            "label": "Mastiff",
+            "species": "151"
+        },
+        {
+            "id": "228",
+            "label": "Montagne des Pyrénées",
+            "species": "151"
+        },
+        {
+            "id": "229",
+            "label": "Nizziny",
+            "species": "151"
+        },
+        {
+            "id": "230",
+            "label": "Pékinois",
+            "species": "151"
+        },
+        {
+            "id": "231",
+            "label": "Pinscher Nain",
+            "species": "151"
+        },
+        {
+            "id": "232",
+            "label": "Pointer",
+            "species": "151"
+        },
+        {
+            "id": "233",
+            "label": "Rottweiler",
+            "species": "151"
+        },
+        {
+            "id": "234",
+            "label": "Saint Bernard",
+            "species": "151"
+        },
+        {
+            "id": "235",
+            "label": "Saluki",
+            "species": "151"
+        },
+        {
+            "id": "236",
+            "label": "Samoyede",
+            "species": "151"
+        },
+        {
+            "id": "237",
+            "label": "Affenpinscher",
+            "species": "151"
+        },
+        {
+            "id": "238",
+            "label": "Lévrier Afghan",
+            "species": "151"
+        },
+        {
+            "id": "239",
+            "label": "Cocker Américain",
+            "species": "151"
+        },
+        {
+            "id": "240",
+            "label": "American Staffordshire Terrier",
+            "species": "151"
+        },
+        {
+            "id": "241",
+            "label": "Bouvier d'Appenzell",
+            "species": "151"
+        },
+        {
+            "id": "242",
+            "label": "Terrier Australien",
+            "species": "151"
+        },
+        {
+            "id": "243",
+            "label": "Azawakh",
+            "species": "151"
+        },
+        {
+            "id": "244",
+            "label": "Barbet",
+            "species": "151"
+        },
+        {
+            "id": "245",
+            "label": "Basset Bleu de Gascogne",
+            "species": "151"
+        },
+        {
+            "id": "246",
+            "label": "Basset Fauve de Bretagne",
+            "species": "151"
+        },
+        {
+            "id": "247",
+            "label": "Bedlington Terrier",
+            "species": "151"
+        },
+        {
+            "id": "248",
+            "label": "Bobtail",
+            "species": "151"
+        },
+        {
+            "id": "249",
+            "label": "Bouvier de l Entlebuch",
+            "species": "151"
+        },
+        {
+            "id": "250",
+            "label": "Bouvier des Flandres",
+            "species": "151"
+        },
+        {
+            "id": "251",
+            "label": "Brabancon",
+            "species": "151"
+        },
+        {
+            "id": "252",
+            "label": "Braque de l'Ariège",
+            "species": "151"
+        },
+        {
+            "id": "253",
+            "label": "Braque d'Auvergne",
+            "species": "151"
+        },
+        {
+            "id": "254",
+            "label": "Braque du Bourbonnais",
+            "species": "151"
+        },
+        {
+            "id": "255",
+            "label": "Braque Hongrois",
+            "species": "151"
+        },
+        {
+            "id": "256",
+            "label": "Braque Saint Germain",
+            "species": "151"
+        },
+        {
+            "id": "257",
+            "label": "Braque de Weimar",
+            "species": "151"
+        },
+        {
+            "id": "258",
+            "label": "Briquet Griffon Vendéen",
+            "species": "151"
+        },
+        {
+            "id": "259",
+            "label": "Bulldog",
+            "species": "151"
+        },
+        {
+            "id": "260",
+            "label": "Carlin",
+            "species": "151"
+        },
+        {
+            "id": "261",
+            "label": "Cirneco de l'Etna",
+            "species": "151"
+        },
+        {
+            "id": "262",
+            "label": "Clumber Spaniel",
+            "species": "151"
+        },
+        {
+            "id": "263",
+            "label": "Coton de Tuléar",
+            "species": "151"
+        },
+        {
+            "id": "264",
+            "label": "Curly Coated Retriever",
+            "species": "151"
+        },
+        {
+            "id": "265",
+            "label": "Dandie Dinmont Terrier",
+            "species": "151"
+        },
+        {
+            "id": "266",
+            "label": "Deerhound",
+            "species": "151"
+        },
+        {
+            "id": "267",
+            "label": "Dogue du Tibet",
+            "species": "151"
+        },
+        {
+            "id": "268",
+            "label": "Epagneul Francais",
+            "species": "151"
+        },
+        {
+            "id": "269",
+            "label": "Epagneul Japonais",
+            "species": "151"
+        },
+        {
+            "id": "270",
+            "label": "Croisé",
+            "species": "151"
+        },
+        {
+            "id": "271",
+            "label": "Schnauzer Geant",
+            "species": "151"
+        },
+        {
+            "id": "272",
+            "label": "Schnauzer Moyen",
+            "species": "151"
+        },
+        {
+            "id": "273",
+            "label": "Schnauzer Nain",
+            "species": "151"
+        },
+        {
+            "id": "274",
+            "label": "Setter Anglais",
+            "species": "151"
+        },
+        {
+            "id": "275",
+            "label": "Setter Gordon",
+            "species": "151"
+        },
+        {
+            "id": "276",
+            "label": "Setter Irlandais",
+            "species": "151"
+        },
+        {
+            "id": "277",
+            "label": "Shih Tzu",
+            "species": "151"
+        },
+        {
+            "id": "278",
+            "label": "Siberian Husky",
+            "species": "151"
+        },
+        {
+            "id": "279",
+            "label": "Teckel standard",
+            "species": "151"
+        },
+        {
+            "id": "280",
+            "label": "Terre Neuve",
+            "species": "151"
+        },
+        {
+            "id": "281",
+            "label": "Welsh Corgi Cardigan",
+            "species": "151"
+        },
+        {
+            "id": "282",
+            "label": "Welsh Terrier",
+            "species": "151"
+        },
+        {
+            "id": "283",
+            "label": "West Highland White Terrier",
+            "species": "151"
+        },
+        {
+            "id": "284",
+            "label": "Whippet",
+            "species": "151"
+        },
+        {
+            "id": "285",
+            "label": "Yorkshire Terrier",
+            "species": "151"
+        },
+        {
+            "id": "286",
+            "label": "Abyssin",
+            "species": "150"
+        },
+        {
+            "id": "287",
+            "label": "Sacré de Birmanie",
+            "species": "150"
+        },
+        {
+            "id": "288",
+            "label": "Croisé",
+            "species": "150"
+        },
+        {
+            "id": "289",
+            "label": "Européen",
+            "species": "150"
+        },
+        {
+            "id": "290",
+            "label": "Forêts Norvégiennes",
+            "species": "150"
+        },
+        {
+            "id": "291",
+            "label": "Maine Coon",
+            "species": "150"
+        },
+        {
+            "id": "292",
+            "label": "Persan",
+            "species": "150"
+        },
+        {
+            "id": "293",
+            "label": "Siamois",
+            "species": "150"
+        },
+        {
+            "id": "294",
+            "label": "Airedale Terrier",
+            "species": "151"
+        },
+        {
+            "id": "295",
+            "label": "Akita Inu",
+            "species": "151"
+        },
+        {
+            "id": "296",
+            "label": "Alaskan Malamute",
+            "species": "151"
+        },
+        {
+            "id": "297",
+            "label": "Barzoi",
+            "species": "151"
+        },
+        {
+            "id": "298",
+            "label": "Basset Artésien Normand",
+            "species": "151"
+        },
+        {
+            "id": "299",
+            "label": "Basset Hound",
+            "species": "151"
+        },
+        {
+            "id": "300",
+            "label": "Beagle",
+            "species": "151"
+        },
+        {
+            "id": "301",
+            "label": "Bearded Collie",
+            "species": "151"
+        },
+        {
+            "id": "302",
+            "label": "Beauceron",
+            "species": "151"
+        },
+        {
+            "id": "303",
+            "label": "Berger Allemand",
+            "species": "151"
+        },
+        {
+            "id": "304",
+            "label": "Berger des Pyrénées",
+            "species": "151"
+        },
+        {
+            "id": "305",
+            "label": "Berger Picard",
+            "species": "151"
+        },
+        {
+            "id": "306",
+            "label": "Bichon Frisé",
+            "species": "151"
+        },
+        {
+            "id": "307",
+            "label": "Bichon Maltais",
+            "species": "151"
+        },
+        {
+            "id": "308",
+            "label": "Border Collie",
+            "species": "151"
+        },
+        {
+            "id": "309",
+            "label": "Border Terrier",
+            "species": "151"
+        },
+        {
+            "id": "310",
+            "label": "Boston Terrier",
+            "species": "151"
+        },
+        {
+            "id": "311",
+            "label": "Bouledogue Français",
+            "species": "151"
+        },
+        {
+            "id": "312",
+            "label": "Bouvier Bernois",
+            "species": "151"
+        },
+        {
+            "id": "313",
+            "label": "Grand Basset Griffon Vendeen",
+            "species": "151"
+        },
+        {
+            "id": "314",
+            "label": "Grand Bleu de Gascogne",
+            "species": "151"
+        },
+        {
+            "id": "315",
+            "label": "Grand Griffon Vendéen",
+            "species": "151"
+        },
+        {
+            "id": "316",
+            "label": "Griffon Belge",
+            "species": "151"
+        },
+        {
+            "id": "317",
+            "label": "Griffon Nivernais",
+            "species": "151"
+        },
+        {
+            "id": "318",
+            "label": "Groenendael",
+            "species": "151"
+        },
+        {
+            "id": "319",
+            "label": "Caniche Moyen",
+            "species": "151"
+        },
+        {
+            "id": "320",
+            "label": "Caniche Nain",
+            "species": "151"
+        },
+        {
+            "id": "321",
+            "label": "Caniche Toy",
+            "species": "151"
+        },
+        {
+            "id": "322",
+            "label": "Harrier",
+            "species": "151"
+        },
+        {
+            "id": "323",
+            "label": "Hovawart",
+            "species": "151"
+        },
+        {
+            "id": "324",
+            "label": "Irish Wolfhound",
+            "species": "151"
+        },
+        {
+            "id": "325",
+            "label": "Jagd Terrier",
+            "species": "151"
+        },
+        {
+            "id": "326",
+            "label": "Kerry Blue Terrier",
+            "species": "151"
+        },
+        {
+            "id": "327",
+            "label": "Komondor",
+            "species": "151"
+        },
+        {
+            "id": "328",
+            "label": "Korthals",
+            "species": "151"
+        },
+        {
+            "id": "329",
+            "label": "Kuvasz",
+            "species": "151"
+        },
+        {
+            "id": "330",
+            "label": "Laekenois",
+            "species": "151"
+        },
+        {
+            "id": "331",
+            "label": "Landseer",
+            "species": "151"
+        },
+        {
+            "id": "332",
+            "label": "Léonberg",
+            "species": "151"
+        },
+        {
+            "id": "333",
+            "label": "Malinois",
+            "species": "151"
+        },
+        {
+            "id": "334",
+            "label": "Mâtin Napolitain",
+            "species": "151"
+        },
+        {
+            "id": "335",
+            "label": "Mudi",
+            "species": "151"
+        },
+        {
+            "id": "336",
+            "label": "Norfolk Terrier",
+            "species": "151"
+        },
+        {
+            "id": "337",
+            "label": "Burmese",
+            "species": "150"
+        },
+        {
+            "id": "338",
+            "label": "Chartreux",
+            "species": "150"
+        }
+    ],
+    "cages": [
+        {
+            "code": "1",
+            "id": "1",
+            "label": "",
+            "position": "1",
+            "space": "1"
+        },
+        {
+            "code": "2",
+            "id": "2",
+            "label": "",
+            "position": "2",
+            "space": "1"
+        },
+        {
+            "code": "3",
+            "id": "3",
+            "label": "",
+            "position": "3",
+            "space": "1"
+        },
+        {
+            "code": "4",
+            "id": "4",
+            "label": "",
+            "position": "4",
+            "space": "1"
+        },
+        {
+            "code": "5",
+            "id": "5",
+            "label": "",
+            "position": "5",
+            "space": "1"
+        },
+        {
+            "code": "6",
+            "id": "6",
+            "label": "",
+            "position": "6",
+            "space": "1"
+        },
+        {
+            "code": "7",
+            "id": "7",
+            "label": "",
+            "position": "7",
+            "space": "2"
+        },
+        {
+            "code": "8",
+            "id": "8",
+            "label": "",
+            "position": "8",
+            "space": "2"
+        },
+        {
+            "code": "9",
+            "id": "9",
+            "label": "",
+            "position": "9",
+            "space": "2"
+        },
+        {
+            "code": "10",
+            "id": "10",
+            "label": "",
+            "position": "10",
+            "space": "2"
+        }
+    ],
+    "reasons": [
+        {
+            "code": "ACCID",
+            "id": "12",
+            "label": "Accident voiture"
+        },
+        {
+            "code": "CASTR",
+            "id": "13",
+            "label": "CASTRA - BO"
+        },
+        {
+            "code": "CASTR1",
+            "id": "14",
+            "label": "CASTRA - CN"
+        },
+        {
+            "code": "CASTR2",
+            "id": "15",
+            "label": "CASTRA - CT"
+        },
+        {
+            "code": "CHIRU",
+            "id": "16",
+            "label": "Chirurgie classique"
+        },
+        {
+            "code": "CHIRC",
+            "id": "17",
+            "label": "CHIR-CASTRA-CN"
+        },
+        {
+            "code": "CHIRO",
+            "id": "18",
+            "label": "CHIR-OVARIO-CN"
+        }
+    ],
+    "spaces": [
+        {
+            "code": "CHIR-1",
+            "id": "1",
+            "label": "CHIR-CHAT"
+        },
+        {
+            "code": "CHIR-2",
+            "id": "2",
+            "label": "CHIR-CHIEN"
+        }
+    ],
+    "species": [
+        {
+            "id": "147",
+            "label": "Lapin Nain"
+        },
+        {
+            "id": "148",
+            "label": "Hamster"
+        },
+        {
+            "id": "149",
+            "label": "Cochon d'Inde"
+        },
+        {
+            "id": "150",
+            "label": "Chat"
+        },
+        {
+            "id": "151",
+            "label": "Chien"
+        },
+        {
+            "id": "152",
+            "label": "Rat "
+        },
+        {
+            "id": "153",
+            "label": "Oiseau"
+        },
+        {
+            "id": "154",
+            "label": "Pigeon"
+        },
+        {
+            "id": "4520",
+            "label": "Bovins"
+        },
+        {
+            "id": "4521",
+            "label": "Equins"
+        },
+        {
+            "id": "4522",
+            "label": "Caprins"
+        },
+        {
+            "id": "4523",
+            "label": "Ovins"
+        },
+        {
+            "id": "4524",
+            "label": "Porcins"
+        },
+        {
+            "id": "4525",
+            "label": "Volailles"
+        }
+    ],
+    "users": [
+        {
+            "id": "1",
+            "order_number": "",
+            "username": "ADMINISTRATEUR"
+        },
+        {
+            "id": "2",
+            "order_number": "30000",
+            "username": "DR GENIAL"
+        },
+        {
+            "id": "3",
+            "order_number": "10000",
+            "username": "DR SUPER"
+        },
+        {
+            "id": "4",
+            "order_number": "",
+            "username": "MELANIE"
+        },
+        {
+            "id": "5",
+            "order_number": "20000",
+            "username": "DR COOL"
+        }
+    ]
+}

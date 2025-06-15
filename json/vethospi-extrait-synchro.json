@@ -1,0 +1,14 @@
+{
+	"admixtures": [
+		{
+			"id": "1f013ad1-b087-647e-b935-874bddafb560",
+			"billable": true,
+			"per_day": false,
+			"act_external_id": "1099",
+			"act_label": "INJECTION IV",
+			"name": "Potassium",
+			"unit": "mg",
+			"quantity": 30
+		}
+	]
+}
